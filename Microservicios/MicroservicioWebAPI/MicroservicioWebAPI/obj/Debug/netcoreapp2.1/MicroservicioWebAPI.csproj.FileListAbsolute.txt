@@ -1,0 +1,15 @@
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.csproj.CoreCompileInputs.cache
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.AssemblyInfoInputs.cache
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.AssemblyInfo.cs
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\bin\Debug\netcoreapp2.1\MicroservicioWebAPI.deps.json
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\bin\Debug\netcoreapp2.1\MicroservicioWebAPI.runtimeconfig.json
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\bin\Debug\netcoreapp2.1\MicroservicioWebAPI.runtimeconfig.dev.json
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\bin\Debug\netcoreapp2.1\MicroservicioWebAPI.dll
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\bin\Debug\netcoreapp2.1\MicroservicioWebAPI.pdb
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.csprojAssemblyReference.cache
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.RazorAssemblyInfo.cache
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.RazorAssemblyInfo.cs
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.RazorTargetAssemblyInfo.cache
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.dll
+C:\Projects\Microservicios\MicroservicioWebAPI\MicroservicioWebAPI\obj\Debug\netcoreapp2.1\MicroservicioWebAPI.pdb

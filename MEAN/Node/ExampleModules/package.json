@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "mi primer paquete de node",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error no test specified\" && exit 1"
+  },
+  "author": "Fernando Romero",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "npm": "^6.6.0",
+    "to": "^0.2.9",
+    "update": "^0.7.4"
+  },
+  "devDependencies": {}
+}

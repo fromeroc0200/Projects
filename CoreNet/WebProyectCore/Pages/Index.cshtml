@@ -1,0 +1,9 @@
+@page
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Configuration
+@{
+    int i = 2 + 2;
+}
+<h1>Esta es mi primera pagina en Core.Net</h1>
+<p>La suma de 2 + 2 = @i</p>
+<p>@Configuration["Message"]</p>

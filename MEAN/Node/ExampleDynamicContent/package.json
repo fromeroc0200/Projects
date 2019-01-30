@@ -1,0 +1,14 @@
+{
+  "name": "testcontent",
+  "version": "1.0.0",
+  "description": "Proyecto contenedor dinamico MVC",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error in the process\" && exit 1"
+  },
+  "author": "Fernando Romero",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.9"
+  }
+}

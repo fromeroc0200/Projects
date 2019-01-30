@@ -1,0 +1,59 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center; display:none">
+  <h1>
+    Bienbvenido a {{ title }}!
+  </h1>
+  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
+
+<p>Example string interpolation: </p>
+<h2>{{a}} + {{b}} = {{a+b}}</h2>
+<hr/>
+<p>Example property binding (a delay to disabled button)</p>
+<button [disabled]="listo" >Click here disabled</button>
+<hr />
+<p>Example Event Binding</p>
+<button (click)="doAction()">Click here</button>
+<hr />
+<p>Example Two way Data binding</p>
+<input type="text" placeholder="Your name" [(ngModel)]="name"/>
+<br/>
+My name is: {{name}}
+</div>
+
+<div style="text-align: center">
+  <h1>Directivas</h1>
+  <h2>Estructurales</h2>
+  <p>Uso del ngFor:</p>
+  <br />
+  <hr/>
+  <p>lista generada en duro</p>
+  <ul>
+    <li>Foreria juana</li>
+    <li>Donas juanita</li>
+    <li>Veterinaria juanita</li>
+  </ul>
+
+  <p>Lista por directiva estructural ngFor:</p>
+  <ul style="display:none">
+    <li *ngFor="let lugar of lugares">{{lugar.nombre}}</li>
+  </ul>
+  <hr/>
+  <p>Uso de la directiva ngIf</p>
+  <ul style="display:none">
+    <ng-container *ngFor="let place of places">
+      <li *ngIf="place.active" >{{place.name}}</li>
+    </ng-container>
+  </ul>
+  <p>Uso de la directiva ngStyle</p>
+  <ul>
+    <ng-container *ngFor="let place of places; let i = index">
+      <li [ngStyle]="{color: (place.active)? 'blue' : 'black'}" [ngClass]="{evennumber : (i + 1 ) % 2 !== 0 }" >{{place.name}}</li>
+    </ng-container>
+  </ul>
+</div>
+<hr/>
+<!--<div>
+    <agm-map [latitude]="lat" [longitude]="lng">
+        <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
+      </agm-map>
+</div>-->

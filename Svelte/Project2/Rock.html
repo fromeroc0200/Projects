@@ -1,0 +1,102 @@
+<h1>Rock collection app</h1>
+
+<!-- creates the space to write -->
+<label><input bind:value='name' placeholder='Name of the rock'></label>
+<label><input bind:value='location' placeholder='Found location'></label>
+<label><input bind:value='date' placeholder='Found Date'></label>
+
+<!-- creates the button to create, delete and update -->
+<div class='buttons'>
+	<button on:click='create()' disabled='{{!name || !location || !date}}'>Add</button>
+	<button on:click='update()' disabled='{{!name || !location || !date || !selected}}'>Update</button>
+	<button on:click='remove()' disabled='{{!selected}}'>Remove</button>
+</div>
+
+<!-- creates the list -->
+<!-- two way binding to declare list-->
+<select bind:value='list' size='15'>
+	{{#each listrock as geo, list}}
+		<option value='{{list}}'>{{geo.name}}, {{geo.location}}, {{geo.date}}</option>
+	{{/each}}
+</select>
+
+<!--style for the page-->
+<style>
+	* {
+		font-family: serif;
+		font-size: 25px;
+	}
+</style>
+
+<!--script for the app-->
+<script>
+	export default {
+		data () {																					//default component data
+			return {
+				firstdata: '',
+				name: '',
+				location: '',
+        date: '',
+				rock: [],
+			};
+		},
+
+		computed: {           														//computed an object literal provided by svelte
+			selected: ( listrock, list ) => {								//arrow function to show the list output
+				return listrock[list];
+			},
+
+			listrock ( rock, firstdata ) {
+				if ( !firstdata ) return rock;
+
+				return rock.filter( geo => {								//arrow function to show the way result will come out
+					const name = `${geo.name}, ${geo.location}, ${geo.date}`;
+					return ( firstdata );
+				});
+			}
+		},
+
+		oncreate () {																		//oncreate() one of the hooks to provide control logic in svelte
+			this.observe( 'selected', selected => {				// other one ondestroy().
+				if ( selected ) this.set( selected );
+			});
+		},
+
+		methods: {																			//custom methods provided by svelte, also can use our own.
+
+//adds functionality for creating new rock data
+			create () {
+				const { name, location, date, rock } = this.get();		//creates a constant to the list
+				rock.push({ name, location, date });		//used push() method to add one data endo of the list
+				this.set({
+					rock,
+					name: '',
+					location: '',
+          date: '',
+					list: rock.length + 1									//adds 1 data to the length of list
+				});
+			},
+//adds functionality for updating rock data.
+			update () {
+				const { name, location, date, selected, rock } = this.get(); //creates a constant
+				selected.name = name;		//selects the rock name
+				selected.location = location;  //select the location name
+        selected.date = date;  //select the date
+				this.set({ rock, selected });
+			},
+//adds functionality for removing rock data. can remove existing data
+			remove () {
+				const {rock, selected, list } = this.get();		//selects the data to be removed
+				const index = rock.indexOf( selected );		//indexed to the selected data
+				rock.splice( index, 1 );		//used splice() method to remove existing data
+				this.set({
+					rock,
+					name: '',
+					location: '',
+          date: '',
+					list: Math.min( list, rock.length - 1 )	//used math.min() method to removes 1 data from the list at a time
+				});
+			}
+		}
+	};
+</script>

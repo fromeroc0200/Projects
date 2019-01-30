@@ -1,0 +1,1 @@
+Este archivo es usado para ser leido por el modulo Core FileSystem de Node

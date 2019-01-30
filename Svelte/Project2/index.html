@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+  <title>Rock Collection App</title>
+</head>
+<body>
+  <main></main>
+  <script src='Rock.js'></script>
+  <script>
+	var app = new Rock({
+		target: document.body,        //target is the element to render the component
+		data: {
+			"rock": [
+				{
+					"name": "Plymouth Rock",
+					"location": "Plymouth, MA",
+					"date": "1620"
+				},
+				{
+					"name": "The blarney stone",
+					"location": "Cork, Ireland",
+					"date": "1314"
+				},
+				{
+					"name": "The rosetta stone",
+					"location": "Egypt",
+					"date": "204181 bc"
+				},
+        {
+					"name": "Moon stone",
+					"location": "Ancient rome and greece",
+					"date": "510 bc"
+				},
+        {
+					"name": "Hawaiitte",
+					"location": "Hawaii",
+					"date": "early 1900's"
+				},
+			]
+		}
+	});
+  </script>
+</body>
+</html>
