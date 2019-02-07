@@ -1,0 +1,16 @@
+{
+  "name": "ex4",
+  "version": "1.0.0",
+  "description": "Proyecto de uso de modulos con express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Romero",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.12"
+  }
+}
