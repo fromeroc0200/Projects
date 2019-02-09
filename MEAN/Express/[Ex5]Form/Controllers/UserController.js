@@ -8,6 +8,7 @@ module.exports = {
 function Ver (req, res){
     res.locals.id = req.params.id;
     res.render('Users/Ver');
+    
 }
 
 
@@ -20,5 +21,5 @@ function Nuevo(req,res){
 }
 
 function PostUser(req,res){
-    console.log(req.body.nameUser);   
+    console.log(req.body);   
 }
