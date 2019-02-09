@@ -1,0 +1,11 @@
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\bin\Debug\netcoreapp2.1\CreateSimplifiedConstructors.deps.json
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\bin\Debug\netcoreapp2.1\CreateSimplifiedConstructors.runtimeconfig.json
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\bin\Debug\netcoreapp2.1\CreateSimplifiedConstructors.runtimeconfig.dev.json
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\bin\Debug\netcoreapp2.1\CreateSimplifiedConstructors.dll
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\bin\Debug\netcoreapp2.1\CreateSimplifiedConstructors.pdb
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\obj\Debug\netcoreapp2.1\CreateSimplifiedConstructors.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\obj\Debug\netcoreapp2.1\CreateSimplifiedConstructors.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\obj\Debug\netcoreapp2.1\CreateSimplifiedConstructors.AssemblyInfoInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\obj\Debug\netcoreapp2.1\CreateSimplifiedConstructors.AssemblyInfo.cs
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\obj\Debug\netcoreapp2.1\CreateSimplifiedConstructors.dll
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\CreateSimplifiedConstructors\obj\Debug\netcoreapp2.1\CreateSimplifiedConstructors.pdb

@@ -1,0 +1,8 @@
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\f.romerocuellar\source\repos\PatternDesign\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb

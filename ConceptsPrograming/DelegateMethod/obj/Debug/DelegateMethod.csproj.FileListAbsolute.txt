@@ -1,0 +1,7 @@
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateMethod\bin\Debug\DelegateMethod.exe.config
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateMethod\bin\Debug\DelegateMethod.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateMethod\bin\Debug\DelegateMethod.pdb
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateMethod\obj\Debug\DelegateMethod.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateMethod\obj\Debug\DelegateMethod.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateMethod\obj\Debug\DelegateMethod.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateMethod\obj\Debug\DelegateMethod.pdb

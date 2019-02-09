@@ -1,0 +1,11 @@
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\bin\Debug\netcoreapp2.1\BestPractices.deps.json
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\bin\Debug\netcoreapp2.1\BestPractices.runtimeconfig.json
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\bin\Debug\netcoreapp2.1\BestPractices.runtimeconfig.dev.json
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\bin\Debug\netcoreapp2.1\BestPractices.dll
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\bin\Debug\netcoreapp2.1\BestPractices.pdb
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\obj\Debug\netcoreapp2.1\BestPractices.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\obj\Debug\netcoreapp2.1\BestPractices.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\obj\Debug\netcoreapp2.1\BestPractices.AssemblyInfoInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\obj\Debug\netcoreapp2.1\BestPractices.AssemblyInfo.cs
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\obj\Debug\netcoreapp2.1\BestPractices.dll
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\BestPractices\obj\Debug\netcoreapp2.1\BestPractices.pdb

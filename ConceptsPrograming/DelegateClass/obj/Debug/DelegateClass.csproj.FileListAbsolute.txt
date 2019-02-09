@@ -1,0 +1,7 @@
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateClass\bin\Debug\DelegateClass.exe.config
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateClass\bin\Debug\DelegateClass.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateClass\bin\Debug\DelegateClass.pdb
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateClass\obj\Debug\DelegateClass.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateClass\obj\Debug\DelegateClass.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateClass\obj\Debug\DelegateClass.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\DelegateClass\obj\Debug\DelegateClass.pdb

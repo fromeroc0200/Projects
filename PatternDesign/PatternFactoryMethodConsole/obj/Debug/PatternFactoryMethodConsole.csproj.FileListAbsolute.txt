@@ -1,0 +1,6 @@
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternFactoryMethodConsole\bin\Debug\PatternFactoryMethodConsole.exe.config
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternFactoryMethodConsole\bin\Debug\PatternFactoryMethodConsole.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternFactoryMethodConsole\bin\Debug\PatternFactoryMethodConsole.pdb
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternFactoryMethodConsole\obj\Debug\PatternFactoryMethodConsole.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternFactoryMethodConsole\obj\Debug\PatternFactoryMethodConsole.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternFactoryMethodConsole\obj\Debug\PatternFactoryMethodConsole.pdb

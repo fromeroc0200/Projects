@@ -1,0 +1,12 @@
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\bin\Debug\PatternSingletonWinForm.exe.config
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\bin\Debug\PatternSingletonWinForm.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\bin\Debug\PatternSingletonWinForm.pdb
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.FormMain.resources
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.Properties.Resources.resources
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.csproj.GenerateResource.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.pdb
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.Modules.Module1.resources
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonWinForm\obj\Debug\PatternSingletonWinForm.Modules.Module2.resources

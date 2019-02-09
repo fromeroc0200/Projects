@@ -1,0 +1,7 @@
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonConsole\bin\Debug\PatternSingletonConsole.exe.config
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonConsole\bin\Debug\PatternSingletonConsole.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonConsole\bin\Debug\PatternSingletonConsole.pdb
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonConsole\obj\Debug\PatternSingletonConsole.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonConsole\obj\Debug\PatternSingletonConsole.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonConsole\obj\Debug\PatternSingletonConsole.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternSingletonConsole\obj\Debug\PatternSingletonConsole.pdb

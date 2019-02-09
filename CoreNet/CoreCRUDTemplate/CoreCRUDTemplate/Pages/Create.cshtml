@@ -1,0 +1,12 @@
+﻿@page
+@model CoreCRUDTemplate.Pages.CreateModel
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<form method="post">
+    <div>Name: <input asp-for="Customer.Name" /></div>
+    <div><input type="submit" /></div>
+</form>
