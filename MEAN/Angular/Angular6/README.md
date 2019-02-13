@@ -1,3 +1,12 @@
+# Create project angular
+
+ng new Angular6 --style=scss --routing
+ng generate component sidebar
+ng g c post  [esto es abreviado de generate component]
+
+Para agregar servicios
+ng generate service data
+
 # Angular6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
