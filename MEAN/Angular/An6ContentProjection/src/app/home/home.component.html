@@ -1,0 +1,34 @@
+<h1>Home Page</h1>
+<!--Mostrara el contenido dentro del tag <app-home>, si este lo contiene-->
+<ng-content></ng-content>
+
+<!-->agregamos el componente accordion-->
+<app-accordion>
+  <!--En este ejemplo no se muestra este contenido ya que se esta especificando dentro del ng-content que contenido obtener-->
+  <div class="myPanelHeader">
+    <nav class="navbar">
+      <!-- logo -->
+      <div class="navbar-brand">
+        <a class="navbar-item">
+          <img src="https://bulma.io/images/bulma-logo.png" />
+        </a>
+      </div>
+    </nav>
+  </div>
+
+  <div class="myPanelBody"></div>
+  <ul>
+    <li>valor 1</li>
+    <li>valor 2</li>
+  </ul>
+  <div class="myPanelFooter">
+    <!-- footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="content has-text-centered">
+          <p>Made by <a href="https://test.com/">Fernando Romero</a></p>
+        </div>
+      </div>
+    </footer>
+  </div>
+</app-accordion>

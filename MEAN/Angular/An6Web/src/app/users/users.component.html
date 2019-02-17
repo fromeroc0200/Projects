@@ -1,0 +1,12 @@
+<h1>Users with animation</h1>
+<ul >
+  <!--<ul>-->
+  <li *ngFor="let user of users$" [@fadeInOut]>
+    <!--Aplicamos la interpolacion del valor-->
+    <a routerLink="/details/{{user.id}}">{{user.name}}</a>
+    <ul>
+      <li>{{user.email}}</li>
+      <li><a href="http://{{user.website}}">{{user.website}}</a></li>
+    </ul>
+  </li>
+</ul>

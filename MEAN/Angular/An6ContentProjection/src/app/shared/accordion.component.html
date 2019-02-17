@@ -1,0 +1,17 @@
+<!--NOTA: No se visualiza el header y demas contenido ya que se estan seleccionando clases especificas que estan dentro del tag <app-accordion> -->
+  <!--Es decir que no estamos mostrando el contenido de la clase myPanelHeader, si la quisieramos agregar -->
+<div>
+  <div >
+    <h3>{{title | uppercase}}</h3>
+  </div>
+<div >
+  <!--Seleccionamos el el contenido de la clase myPanelBody-->
+  <ng-content select=".myPanelBody"></ng-content>
+</div>
+<hr />
+<div>
+  <h4>Este es el contenido del footer</h4>
+  <!--Seleccionamos el el contenido de la clase myPanelFooter-->
+  <ng-content select=".myPanelFooter"></ng-content>
+</div>
+</div>
