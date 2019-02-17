@@ -1,0 +1,20 @@
+﻿@page
+@model CoreCRUDTemplate.Pages.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Customer - @Model.Customer.Id</h2>
+
+<form  method="post">
+    <div asp-validation-summary="All"></div>
+    <input asp-for="Customer.Id" type="hidden" />
+    <div>
+        <input asp-for="Customer.Name"/>
+        <span asp-validation-for="Customer.Name"></span>
+    </div>
+    <div>
+        <button type="submit">Save</button>
+    </div>
+</form>
+

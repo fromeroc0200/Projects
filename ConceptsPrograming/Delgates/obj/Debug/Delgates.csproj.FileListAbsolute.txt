@@ -1,0 +1,7 @@
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Delgates\bin\Debug\Delgates.exe.config
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Delgates\bin\Debug\Delgates.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Delgates\bin\Debug\Delgates.pdb
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Delgates\obj\Debug\Delgates.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Delgates\obj\Debug\Delgates.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Delgates\obj\Debug\Delgates.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Delgates\obj\Debug\Delgates.pdb

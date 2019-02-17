@@ -1,0 +1,17 @@
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\PruebaAzure.exe.config
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\PruebaAzure.exe
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\PruebaAzure.pdb
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\obj\Debug\PruebaAzure.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\obj\Debug\PruebaAzure.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\obj\Debug\PruebaAzure.csproj.CopyComplete
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\obj\Debug\PruebaAzure.exe
+C:\Users\f.romerocuellar\source\repos\PruebaAzure\PruebaAzure\obj\Debug\PruebaAzure.pdb

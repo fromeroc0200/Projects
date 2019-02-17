@@ -1,0 +1,7 @@
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternInjectionInstanceConsole\bin\Debug\PatternInjectionInstanceConsole.exe.config
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternInjectionInstanceConsole\bin\Debug\PatternInjectionInstanceConsole.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternInjectionInstanceConsole\bin\Debug\PatternInjectionInstanceConsole.pdb
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternInjectionInstanceConsole\obj\Debug\PatternInjectionInstanceConsole.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternInjectionInstanceConsole\obj\Debug\PatternInjectionInstanceConsole.exe
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternInjectionInstanceConsole\obj\Debug\PatternInjectionInstanceConsole.pdb
+C:\Users\f.romerocuellar\source\repos\PatternDesign\PatternInjectionInstanceConsole\obj\Debug\PatternInjectionInstanceConsole.csprojAssemblyReference.cache

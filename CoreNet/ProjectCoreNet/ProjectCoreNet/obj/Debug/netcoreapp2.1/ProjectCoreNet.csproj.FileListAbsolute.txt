@@ -1,0 +1,17 @@
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\bin\Debug\netcoreapp2.1\ProjectCoreNet.deps.json
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\bin\Debug\netcoreapp2.1\ProjectCoreNet.runtimeconfig.json
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\bin\Debug\netcoreapp2.1\ProjectCoreNet.runtimeconfig.dev.json
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\bin\Debug\netcoreapp2.1\ProjectCoreNet.dll
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\bin\Debug\netcoreapp2.1\ProjectCoreNet.pdb
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.RazorAssemblyInfo.cache
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.RazorAssemblyInfo.cs
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.AssemblyInfoInputs.cache
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.AssemblyInfo.cs
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.RazorTargetAssemblyInfo.cache
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.dll
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.pdb
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\bin\Debug\netcoreapp2.1\Pruebas.Obj.dll
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\bin\Debug\netcoreapp2.1\Pruebas.Obj.pdb
+C:\Users\f.romerocuellar\source\repos\ProjectCoreNet\ProjectCoreNet\obj\Debug\netcoreapp2.1\ProjectCoreNet.csproj.CopyComplete

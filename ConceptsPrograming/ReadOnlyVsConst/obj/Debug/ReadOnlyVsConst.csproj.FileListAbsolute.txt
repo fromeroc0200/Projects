@@ -1,0 +1,14 @@
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\ReadOnlyVsConst\bin\Debug\ReadOnlyVsConst.exe.config
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\ReadOnlyVsConst\bin\Debug\ReadOnlyVsConst.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\ReadOnlyVsConst\bin\Debug\ReadOnlyVsConst.pdb
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.pdb
+C:\Proyectos\Net\ConceptsPrograming\ReadOnlyVsConst\bin\Debug\ReadOnlyVsConst.exe.config
+C:\Proyectos\Net\ConceptsPrograming\ReadOnlyVsConst\bin\Debug\ReadOnlyVsConst.exe
+C:\Proyectos\Net\ConceptsPrograming\ReadOnlyVsConst\bin\Debug\ReadOnlyVsConst.pdb
+C:\Proyectos\Net\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.csprojAssemblyReference.cache
+C:\Proyectos\Net\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.csproj.CoreCompileInputs.cache
+C:\Proyectos\Net\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.exe
+C:\Proyectos\Net\ConceptsPrograming\ReadOnlyVsConst\obj\Debug\ReadOnlyVsConst.pdb

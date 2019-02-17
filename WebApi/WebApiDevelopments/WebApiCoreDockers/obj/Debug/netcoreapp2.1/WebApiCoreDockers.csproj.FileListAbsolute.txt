@@ -1,0 +1,15 @@
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\bin\Debug\netcoreapp2.1\WebApiCoreDockers.deps.json
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\bin\Debug\netcoreapp2.1\WebApiCoreDockers.runtimeconfig.json
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\bin\Debug\netcoreapp2.1\WebApiCoreDockers.runtimeconfig.dev.json
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\bin\Debug\netcoreapp2.1\WebApiCoreDockers.dll
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\bin\Debug\netcoreapp2.1\WebApiCoreDockers.pdb
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.RazorAssemblyInfo.cache
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.RazorAssemblyInfo.cs
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.AssemblyInfoInputs.cache
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.AssemblyInfo.cs
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.RazorTargetAssemblyInfo.cache
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.dll
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.pdb
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\WebApiCoreDockers.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\WebApiDevelopments\WebApiCoreDockers\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs

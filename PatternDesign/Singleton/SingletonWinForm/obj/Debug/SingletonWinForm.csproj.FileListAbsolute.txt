@@ -1,0 +1,12 @@
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\bin\Debug\SingletonWinForm.exe.config
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\bin\Debug\SingletonWinForm.exe
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\bin\Debug\SingletonWinForm.pdb
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.Form1.resources
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.Modules.Productos.resources
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.Modules.Usuarios.resources
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.Properties.Resources.resources
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.csproj.GenerateResource.cache
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.exe
+C:\Users\f.romerocuellar\source\repos\Singleton\SingletonWinForm\obj\Debug\SingletonWinForm.pdb

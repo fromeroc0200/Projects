@@ -1,0 +1,7 @@
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\LambdaFunc\bin\Debug\LambdaFunc.exe.config
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\LambdaFunc\bin\Debug\LambdaFunc.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\LambdaFunc\bin\Debug\LambdaFunc.pdb
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\LambdaFunc\obj\Debug\LambdaFunc.csprojAssemblyReference.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\LambdaFunc\obj\Debug\LambdaFunc.csproj.CoreCompileInputs.cache
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\LambdaFunc\obj\Debug\LambdaFunc.exe
+C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\LambdaFunc\obj\Debug\LambdaFunc.pdb
