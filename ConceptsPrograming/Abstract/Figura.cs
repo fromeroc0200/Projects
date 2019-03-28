@@ -12,6 +12,10 @@ namespace Abstract
         protected decimal y;
 
         public abstract string Area(decimal baseIn, decimal heightIn);
-        
+
+        public string Message(string msg)
+        {
+            return $"This is your message: {msg}";
+        }
     }
 }

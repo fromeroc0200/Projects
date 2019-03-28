@@ -1,0 +1,14 @@
+D:\Samples\PTCApi\bin\Debug\netcoreapp2.1\PTCApi.deps.json
+D:\Samples\PTCApi\bin\Debug\netcoreapp2.1\PTCApi.runtimeconfig.json
+D:\Samples\PTCApi\bin\Debug\netcoreapp2.1\PTCApi.runtimeconfig.dev.json
+D:\Samples\PTCApi\bin\Debug\netcoreapp2.1\PTCApi.dll
+D:\Samples\PTCApi\bin\Debug\netcoreapp2.1\PTCApi.pdb
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.csprojAssemblyReference.cache
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.csproj.CoreCompileInputs.cache
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.RazorAssemblyInfo.cache
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.RazorAssemblyInfo.cs
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.AssemblyInfoInputs.cache
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.AssemblyInfo.cs
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.RazorTargetAssemblyInfo.cache
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.dll
+D:\Samples\PTCApi\obj\Debug\netcoreapp2.1\PTCApi.pdb

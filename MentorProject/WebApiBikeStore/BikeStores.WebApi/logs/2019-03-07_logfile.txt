@@ -1,0 +1,249 @@
+2019-03-07 15:46:34.2733 INFO Fetching all the products from the storage
+2019-03-07 15:46:34.9943 INFO Returning 32 products.
+2019-03-07 15:46:37.8337 INFO Fetching all the Categorys from the storage
+2019-03-07 15:46:37.8337 INFO Fetching all the Categorys from the storage
+2019-03-07 15:46:37.8337 INFO Returning 13 Category.
+2019-03-07 15:46:37.8337 INFO Returning 12 Brand.
+2019-03-07 15:46:37.8637 INFO Fetching one product from the storage
+2019-03-07 15:46:37.9377 INFO Returning product with ID: 2.
+2019-03-07 15:46:41.5883 INFO Fetching all the Categorys from the storage
+2019-03-07 15:46:41.5883 INFO Returning 13 Category.
+2019-03-07 15:47:00.2275 INFO Fetching one Category from the storage
+2019-03-07 15:47:00.2385 INFO Returning Category with ID: 1.
+2019-03-07 15:47:54.6468 INFO Fetching all the Categorys from the storage
+2019-03-07 15:47:54.6468 INFO Returning 13 Category.
+2019-03-07 15:51:26.5343 INFO Fetching all the products from the storage
+2019-03-07 15:51:26.7843 INFO Returning 32 products.
+2019-03-07 15:51:28.6144 INFO Fetching all the Categorys from the storage
+2019-03-07 15:51:28.6144 INFO Fetching all the Categorys from the storage
+2019-03-07 15:51:28.6224 INFO Returning 12 Brand.
+2019-03-07 15:51:28.6224 INFO Returning 13 Category.
+2019-03-07 15:51:28.6454 INFO Fetching one product from the storage
+2019-03-07 15:51:28.6924 INFO Returning product with ID: 2.
+2019-03-07 15:54:55.9509 INFO Fetching all the products from the storage
+2019-03-07 15:54:56.6039 INFO Returning 32 products.
+2019-03-07 15:54:58.6129 INFO Fetching all the Categorys from the storage
+2019-03-07 15:54:58.6269 INFO Fetching all the Categorys from the storage
+2019-03-07 15:54:58.6269 INFO Returning 12 Brand.
+2019-03-07 15:54:58.6429 INFO Returning 13 Category.
+2019-03-07 15:54:58.6579 INFO Fetching one product from the storage
+2019-03-07 15:54:58.7129 INFO Returning product with ID: 2.
+2019-03-07 15:59:19.9522 INFO Fetching all the Categorys from the storage
+2019-03-07 15:59:19.9522 INFO Returning 13 Category.
+2019-03-07 15:59:20.8545 INFO Fetching all the products from the storage
+2019-03-07 15:59:20.8825 INFO Returning 32 products.
+2019-03-07 15:59:23.8384 INFO Fetching one product from the storage
+2019-03-07 15:59:23.8444 INFO Fetching all the Categorys from the storage
+2019-03-07 15:59:23.8444 INFO Fetching all the Categorys from the storage
+2019-03-07 15:59:23.8444 INFO Returning 12 Brand.
+2019-03-07 15:59:23.8444 INFO Returning 13 Category.
+2019-03-07 15:59:23.8444 INFO Returning product with ID: 2.
+2019-03-07 16:15:01.4583 INFO Fetching one product from the storage
+2019-03-07 16:15:01.4693 INFO Returning product with ID: 1008.
+2019-03-07 16:15:02.4115 INFO Fetching one product from the storage
+2019-03-07 16:15:02.4115 INFO Returning product with ID: 1008.
+2019-03-07 16:15:05.7047 INFO Fetching one product from the storage
+2019-03-07 16:15:13.1566 INFO Fetching one product from the storage
+2019-03-07 16:15:13.1566 INFO Returning product with ID: 2.
+2019-03-07 16:21:58.4436 INFO Fetching all the products from the storage
+2019-03-07 16:21:58.6856 INFO Returning 32 products.
+2019-03-07 16:22:03.3224 INFO Fetching all the Categorys from the storage
+2019-03-07 16:22:03.3274 INFO Fetching one product from the storage
+2019-03-07 16:22:03.3274 INFO Returning 12 Brand.
+2019-03-07 16:22:03.3224 INFO Fetching all the Categorys from the storage
+2019-03-07 16:22:03.3274 INFO Returning 13 Category.
+2019-03-07 16:22:03.4074 INFO Returning product with ID: 2.
+2019-03-07 16:22:15.2373 INFO Fetching all the products from the storage
+2019-03-07 16:22:15.2663 INFO Returning 32 products.
+2019-03-07 16:22:52.3743 INFO Fetching all the products from the storage
+2019-03-07 16:22:52.4053 INFO Returning 32 products.
+2019-03-07 16:22:53.9743 INFO Fetching all the Categorys from the storage
+2019-03-07 16:22:53.9743 INFO Returning 12 Brand.
+2019-03-07 16:22:53.9743 INFO Fetching all the Categorys from the storage
+2019-03-07 16:22:53.9833 INFO Returning 13 Category.
+2019-03-07 16:24:05.7322 INFO Fetching entity product for insert
+2019-03-07 16:24:05.7512 INFO Insert entity product.
+2019-03-07 16:24:05.9337 INFO Product inserted, retuning response.
+2019-03-07 16:24:06.0459 INFO Fetching all the products from the storage
+2019-03-07 16:24:06.1420 INFO Returning 33 products.
+2019-03-07 16:24:10.4710 INFO Fetching all the Categorys from the storage
+2019-03-07 16:24:10.4710 INFO Fetching all the Categorys from the storage
+2019-03-07 16:24:10.4710 INFO Returning 12 Brand.
+2019-03-07 16:24:10.4710 INFO Returning 13 Category.
+2019-03-07 16:24:10.4860 INFO Fetching one product from the storage
+2019-03-07 16:24:10.5540 INFO Returning product with ID: 2.
+2019-03-07 16:29:40.2062 WARN Product is not registered
+2019-03-07 16:30:09.7194 INFO Fetching all the Categorys from the storage
+2019-03-07 16:30:09.8684 INFO Returning 13 Category.
+2019-03-07 16:30:11.7145 INFO Fetching all the products from the storage
+2019-03-07 16:30:11.7895 INFO Returning 33 products.
+2019-03-07 16:30:12.9113 INFO Fetching one product from the storage
+2019-03-07 16:30:12.9153 INFO Fetching all the Categorys from the storage
+2019-03-07 16:30:12.9153 INFO Fetching all the Categorys from the storage
+2019-03-07 16:30:12.9153 INFO Returning 12 Brand.
+2019-03-07 16:30:12.9153 INFO Returning 13 Category.
+2019-03-07 16:30:12.9843 INFO Returning product with ID: 2.
+2019-03-07 16:31:32.9831 WARN Product is not registered
+2019-03-07 16:36:53.4508 INFO Fetching all the products from the storage
+2019-03-07 16:36:53.7097 INFO Returning 33 products.
+2019-03-07 16:37:05.9289 INFO Fetching entity product for delete
+2019-03-07 16:37:05.9829 INFO Deleting product with ID: 1018.
+2019-03-07 16:37:06.0199 INFO Product with ID: 1018 was deleted.
+2019-03-07 16:37:10.0218 INFO Fetching all the products from the storage
+2019-03-07 16:37:10.0428 INFO Returning 32 products.
+2019-03-07 16:37:14.8624 INFO Fetching entity product for delete
+2019-03-07 16:37:14.8624 INFO Deleting product with ID: 1013.
+2019-03-07 16:37:14.8754 INFO Product with ID: 1013 was deleted.
+2019-03-07 16:37:17.7750 INFO Fetching all the products from the storage
+2019-03-07 16:37:17.7991 INFO Returning 31 products.
+2019-03-07 16:37:21.3301 INFO Fetching entity product for delete
+2019-03-07 16:37:21.3301 INFO Deleting product with ID: 1009.
+2019-03-07 16:37:21.3301 INFO Product with ID: 1009 was deleted.
+2019-03-07 16:37:24.4401 INFO Fetching all the Categorys from the storage
+2019-03-07 16:37:24.4401 INFO Returning 13 Category.
+2019-03-07 16:37:25.3883 INFO Fetching all the products from the storage
+2019-03-07 16:37:25.4293 INFO Returning 30 products.
+2019-03-07 16:37:26.4500 INFO Fetching all the Categorys from the storage
+2019-03-07 16:37:26.4500 INFO Fetching all the Categorys from the storage
+2019-03-07 16:37:26.4540 INFO Returning 12 Brand.
+2019-03-07 16:37:26.4540 INFO Returning 13 Category.
+2019-03-07 16:37:39.6717 INFO Fetching entity product for insert
+2019-03-07 16:37:39.6717 INFO Insert entity product.
+2019-03-07 16:37:39.6887 INFO Product inserted, retuning response.
+2019-03-07 16:37:39.7705 INFO Fetching all the products from the storage
+2019-03-07 16:37:39.7965 INFO Returning 31 products.
+2019-03-07 16:37:47.4668 INFO Fetching all the Categorys from the storage
+2019-03-07 16:37:47.4697 INFO Fetching all the Categorys from the storage
+2019-03-07 16:37:47.4697 INFO Returning 13 Category.
+2019-03-07 16:37:47.4697 INFO Returning 12 Brand.
+2019-03-07 16:37:47.4668 INFO Fetching one product from the storage
+2019-03-07 16:37:47.4938 INFO Returning product with ID: 1019.
+2019-03-07 16:38:54.9724 INFO Fetching all the products from the storage
+2019-03-07 16:38:54.9964 INFO Returning 31 products.
+2019-03-07 16:38:58.0882 INFO Fetching one product from the storage
+2019-03-07 16:38:58.0882 INFO Fetching all the Categorys from the storage
+2019-03-07 16:38:58.0882 INFO Fetching all the Categorys from the storage
+2019-03-07 16:38:58.1152 INFO Returning 12 Brand.
+2019-03-07 16:38:58.1152 INFO Returning 13 Category.
+2019-03-07 16:38:58.1152 INFO Returning product with ID: 1019.
+2019-03-07 16:40:31.2893 INFO Fetching one product from the storage
+2019-03-07 16:40:31.2893 INFO Fetching all the Categorys from the storage
+2019-03-07 16:40:31.2893 INFO Fetching all the Categorys from the storage
+2019-03-07 16:40:31.2973 INFO Returning 12 Brand.
+2019-03-07 16:40:31.2973 INFO Returning 13 Category.
+2019-03-07 16:40:31.2973 INFO Returning product with ID: 1019.
+2019-03-07 16:41:55.8404 INFO Fetching one product from the storage
+2019-03-07 16:41:55.8404 INFO Fetching all the Categorys from the storage
+2019-03-07 16:41:55.8404 INFO Fetching all the Categorys from the storage
+2019-03-07 16:41:55.8404 INFO Returning 12 Brand.
+2019-03-07 16:41:55.8404 INFO Returning product with ID: 1019.
+2019-03-07 16:41:55.8404 INFO Returning 13 Category.
+2019-03-07 16:42:08.0437 INFO Fetching entity product for insert
+2019-03-07 16:42:08.0437 INFO Updating Product with ID: 1019.
+2019-03-07 16:42:08.1151 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.products' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.ProductsService.UpdateProduct(Int32 id, products products) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 101
+2019-03-07 16:43:46.5384 INFO Fetching all the Categorys from the storage
+2019-03-07 16:43:46.5434 INFO Returning 13 Category.
+2019-03-07 16:43:47.6705 INFO Fetching all the products from the storage
+2019-03-07 16:43:47.6953 INFO Returning 31 products.
+2019-03-07 16:43:50.6545 INFO Fetching one product from the storage
+2019-03-07 16:43:50.6545 INFO Fetching all the Categorys from the storage
+2019-03-07 16:43:50.6545 INFO Returning product with ID: 1019.
+2019-03-07 16:43:50.6685 INFO Fetching all the Categorys from the storage
+2019-03-07 16:43:50.6545 INFO Returning 13 Category.
+2019-03-07 16:43:50.6685 INFO Returning 12 Brand.
+2019-03-07 16:44:05.6926 INFO Fetching entity product for insert
+2019-03-07 16:44:08.7416 INFO Updating Product with ID: 1019.
+2019-03-07 16:45:21.7811 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.products' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.ProductsService.UpdateProduct(Int32 id, products products) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 101
+2019-03-07 16:45:26.1217 INFO Fetching entity product for insert
+2019-03-07 16:45:26.1217 INFO Updating Product with ID: 1019.
+2019-03-07 16:45:26.1417 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.products' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.ProductsService.UpdateProduct(Int32 id, products products) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 101
+2019-03-07 16:45:37.3099 INFO Fetching entity product for insert
+2019-03-07 16:45:45.4551 INFO Updating Product with ID: 1019.
+2019-03-07 16:46:45.5982 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.products' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.ProductsService.UpdateProduct(Int32 id, products products) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 101
+2019-03-07 16:46:52.0373 INFO Fetching entity product for insert
+2019-03-07 16:46:52.0383 INFO Updating Product with ID: 1019.
+2019-03-07 16:48:30.0000 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.products' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.Internal.InternalEntityEntry.set_State(EntityState value)
+   at System.Data.Entity.Infrastructure.DbEntityEntry`1.set_State(EntityState value)
+   at BikeStores.Services.Services.ProductsService.UpdateProduct(Int32 id, products products) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 102
+2019-03-07 16:48:34.4563 INFO Fetching entity product for insert
+2019-03-07 16:48:34.4563 INFO Updating Product with ID: 1019.
+2019-03-07 16:54:45.3956 INFO Fetching entity product for insert
+2019-03-07 16:54:45.4117 INFO Updating Product with ID: 1019.
+2019-03-07 16:54:51.3886 INFO Product with ID: 1019 was updated.
+2019-03-07 16:54:51.4706 INFO Fetching all the products from the storage
+2019-03-07 16:54:51.5346 INFO Returning 31 products.
+2019-03-07 17:19:09.6822 INFO Fetching all the products from the storage
+2019-03-07 17:19:09.9085 INFO Returning 31 products.
+2019-03-07 17:19:12.3797 INFO Fetching all the Categorys from the storage
+2019-03-07 17:19:12.3797 INFO Returning 13 Category.
+2019-03-07 17:19:52.2455 INFO Fetching all the Categorys from the storage
+2019-03-07 17:19:52.2455 INFO Returning 13 Category.
+2019-03-07 17:23:18.5206 INFO Fetching all the Categorys from the storage
+2019-03-07 17:23:18.5206 INFO Returning 13 Category.
+2019-03-07 17:23:31.2264 INFO Fetching entity Category for insert
+2019-03-07 17:23:31.2504 WARN Category is not correct.
+2019-03-07 17:24:18.8357 INFO Fetching entity Category for insert
+2019-03-07 17:24:18.8547 WARN Category is not correct.
+2019-03-07 17:24:37.7228 INFO Fetching all the products from the storage
+2019-03-07 17:24:37.7474 INFO Returning 31 products.
+2019-03-07 17:24:38.4299 INFO Fetching all the Categorys from the storage
+2019-03-07 17:24:38.4299 INFO Returning 13 Category.
+2019-03-07 17:24:47.0293 INFO Fetching entity Category for insert
+2019-03-07 17:25:02.8567 WARN Category is not correct.
+2019-03-07 17:25:52.4778 INFO Fetching all the Categorys from the storage
+2019-03-07 17:25:52.4778 INFO Returning 13 Category.
+2019-03-07 17:25:58.6294 INFO Fetching entity Category for insert
+2019-03-07 17:25:58.6294 INFO Insert entity Category.
+2019-03-07 17:25:58.6519 INFO Category inserted, retuning response.
+2019-03-07 17:26:09.0986 INFO Fetching all the Categorys from the storage
+2019-03-07 17:26:09.0986 INFO Returning 14 Category.
+2019-03-07 17:32:23.9116 INFO Fetching all the Categorys from the storage
+2019-03-07 17:32:23.9116 INFO Returning 14 Category.
+2019-03-07 17:32:26.2461 INFO Fetching all the products from the storage
+2019-03-07 17:32:26.2675 INFO Returning 31 products.
+2019-03-07 17:36:28.8349 INFO Fetching all the Categorys from the storage
+2019-03-07 17:36:28.8349 INFO Returning 14 Category.
+2019-03-07 17:36:34.0202 INFO Fetching entity Category for insert
+2019-03-07 17:36:34.0202 INFO Insert entity Category.
+2019-03-07 17:36:34.0332 INFO Category inserted, retuning response.
+2019-03-07 17:36:43.1803 INFO Fetching entity Category for insert
+2019-03-07 17:36:43.1803 INFO Insert entity Category.
+2019-03-07 17:36:43.1943 INFO Category inserted, retuning response.
+2019-03-07 17:36:47.3628 INFO Fetching all the products from the storage
+2019-03-07 17:36:47.3958 INFO Returning 31 products.
+2019-03-07 17:36:48.0714 INFO Fetching all the Categorys from the storage
+2019-03-07 17:36:48.0714 INFO Returning 16 Category.

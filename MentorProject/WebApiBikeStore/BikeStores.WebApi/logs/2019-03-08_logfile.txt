@@ -1,0 +1,383 @@
+2019-03-08 11:33:39.4178 INFO Fetching entity Category for insert
+2019-03-08 11:33:39.4178 INFO Insert entity Category.
+2019-03-08 11:33:39.4998 INFO Category inserted, retuning response.
+2019-03-08 11:33:50.6143 INFO Fetching all the Categorys from the storage
+2019-03-08 11:33:50.6143 INFO Returning 17 Category.
+2019-03-08 11:34:02.2249 INFO Fetching entity Category for insert
+2019-03-08 11:34:02.2249 INFO Insert entity Category.
+2019-03-08 11:34:02.2309 INFO Category inserted, retuning response.
+2019-03-08 11:34:11.2976 INFO Fetching entity Category for insert
+2019-03-08 11:34:11.2976 INFO Insert entity Category.
+2019-03-08 11:34:11.3066 INFO Category inserted, retuning response.
+2019-03-08 11:34:19.0831 INFO Fetching all the products from the storage
+2019-03-08 11:34:19.1141 INFO Returning 31 products.
+2019-03-08 11:34:19.5319 INFO Fetching all the Categorys from the storage
+2019-03-08 11:34:19.5359 INFO Returning 19 Category.
+2019-03-08 11:35:25.3099 INFO Fetching all the Categorys from the storage
+2019-03-08 11:35:25.3099 INFO Returning 19 Category.
+2019-03-08 11:35:31.5084 INFO Fetching entity Category for insert
+2019-03-08 11:35:31.5084 INFO Insert entity Category.
+2019-03-08 11:35:31.5084 INFO Category inserted, retuning response.
+2019-03-08 11:39:05.3356 INFO Fetching all the Categorys from the storage
+2019-03-08 11:39:05.3356 INFO Returning 20 Category.
+2019-03-08 11:39:12.1073 INFO Fetching entity Category for insert
+2019-03-08 11:39:12.1073 INFO Insert entity Category.
+2019-03-08 11:39:12.1153 INFO Category inserted, retuning response.
+2019-03-08 11:39:12.1443 INFO Fetching all the Categorys from the storage
+2019-03-08 11:39:12.1443 INFO Returning 21 Category.
+2019-03-08 11:39:18.5988 INFO Fetching entity Category for insert
+2019-03-08 11:39:18.5988 INFO Insert entity Category.
+2019-03-08 11:39:18.6088 INFO Category inserted, retuning response.
+2019-03-08 11:39:18.6728 INFO Fetching all the Categorys from the storage
+2019-03-08 11:39:18.6728 INFO Returning 22 Category.
+2019-03-08 11:40:22.4183 INFO Fetching all the Categorys from the storage
+2019-03-08 11:40:22.4233 INFO Returning 22 Category.
+2019-03-08 11:40:41.4345 INFO Fetching all the Categorys from the storage
+2019-03-08 11:40:41.4345 INFO Returning 22 Category.
+2019-03-08 11:40:50.0481 INFO Fetching entity Category for delete
+2019-03-08 11:40:50.1518 INFO Deleting Category with ID: 1.
+2019-03-08 11:40:50.1868 INFO Category with ID: 1 was deleted.
+2019-03-08 11:40:55.4243 INFO Fetching one Category from the storage
+2019-03-08 11:40:55.4243 INFO Returning Category with ID: 2.
+2019-03-08 11:41:20.8906 INFO Fetching all the products from the storage
+2019-03-08 11:41:20.9136 INFO Returning 28 products.
+2019-03-08 11:41:21.6996 INFO Fetching all the Categorys from the storage
+2019-03-08 11:41:21.6996 INFO Returning 21 Category.
+2019-03-08 11:41:46.7047 INFO Fetching one Category from the storage
+2019-03-08 11:41:46.7977 INFO Returning Category with ID: 2.
+2019-03-08 11:41:55.7797 INFO Fetching one Category from the storage
+2019-03-08 11:41:55.7797 INFO Returning Category with ID: 2.
+2019-03-08 11:42:52.0429 INFO Fetching all the Categorys from the storage
+2019-03-08 11:42:52.0429 INFO Returning 21 Category.
+2019-03-08 11:43:03.8665 INFO Fetching entity Category for insert
+2019-03-08 11:43:03.8665 INFO Insert entity Category.
+2019-03-08 11:43:03.8665 INFO Category inserted, retuning response.
+2019-03-08 11:43:03.9045 INFO Fetching all the Categorys from the storage
+2019-03-08 11:43:03.9045 INFO Returning 22 Category.
+2019-03-08 11:43:10.9884 INFO Fetching entity Category for delete
+2019-03-08 11:43:10.9884 INFO Deleting Category with ID: 1020.
+2019-03-08 11:43:11.0063 INFO Category with ID: 1020 was deleted.
+2019-03-08 11:43:35.7268 INFO Fetching one Category from the storage
+2019-03-08 11:43:35.7268 INFO Returning Category with ID: 2.
+2019-03-08 11:44:48.0104 INFO Fetching entity Category for insert
+2019-03-08 11:44:48.0234 INFO Updating Category with ID: 2.
+2019-03-08 11:44:48.5363 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.categories' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.CategoriesService.UpdateCategory(Int32 id, categories categories) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\CategoriesService.cs:line 102
+2019-03-08 11:49:25.8301 INFO Fetching entity Category for insert
+2019-03-08 11:49:25.8301 INFO Updating Category with ID: 2.
+2019-03-08 11:49:25.9071 INFO Fetching all the Categorys from the storage
+2019-03-08 11:49:25.9111 INFO Fetching all the products from the storage
+2019-03-08 11:49:25.9111 INFO Fetching all the products from the storage
+2019-03-08 11:49:25.9621 INFO Fetching all the Categorys from the storage
+2019-03-08 11:49:25.9621 INFO Returning 21 Category.
+2019-03-08 11:49:25.9621 INFO Fetching all the Categorys from the storage
+2019-03-08 11:49:26.0861 INFO Returning 21 Category.
+2019-03-08 11:49:25.9711 INFO Returning 21 Category.
+2019-03-08 11:49:26.0331 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.categories' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.CategoriesService.UpdateCategory(Int32 id, categories categories) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\CategoriesService.cs:line 102
+2019-03-08 11:49:26.1471 INFO Returning 28 products.
+2019-03-08 11:49:26.1471 INFO Returning 28 products.
+2019-03-08 11:49:40.8232 INFO Fetching all the products from the storage
+2019-03-08 11:49:40.8452 INFO Returning 28 products.
+2019-03-08 11:49:41.5283 INFO Fetching all the Categorys from the storage
+2019-03-08 11:49:41.5283 INFO Returning 21 Category.
+2019-03-08 11:49:48.4448 INFO Fetching entity Category for insert
+2019-03-08 11:49:48.4738 WARN Category is not correct.
+2019-03-08 11:49:52.3674 INFO Fetching entity Category for insert
+2019-03-08 11:49:52.3861 WARN Category is not correct.
+2019-03-08 11:49:53.0852 INFO Fetching entity Category for insert
+2019-03-08 11:49:53.1042 WARN Category is not correct.
+2019-03-08 11:49:53.5487 INFO Fetching entity Category for insert
+2019-03-08 11:49:53.5667 WARN Category is not correct.
+2019-03-08 11:49:53.7920 INFO Fetching entity Category for insert
+2019-03-08 11:49:53.8090 WARN Category is not correct.
+2019-03-08 11:49:53.9760 INFO Fetching entity Category for insert
+2019-03-08 11:49:53.9960 WARN Category is not correct.
+2019-03-08 11:49:54.1640 INFO Fetching entity Category for insert
+2019-03-08 11:49:54.1810 WARN Category is not correct.
+2019-03-08 11:49:54.3715 INFO Fetching entity Category for insert
+2019-03-08 11:49:54.3905 WARN Category is not correct.
+2019-03-08 11:49:54.5770 INFO Fetching entity Category for insert
+2019-03-08 11:49:54.5950 WARN Category is not correct.
+2019-03-08 11:50:06.4734 INFO Fetching entity Category for insert
+2019-03-08 11:50:06.4924 WARN Category is not correct.
+2019-03-08 11:50:25.6620 INFO Fetching entity Category for insert
+2019-03-08 11:50:25.6790 WARN Category is not correct.
+2019-03-08 11:50:26.6966 INFO Fetching all the products from the storage
+2019-03-08 11:50:26.7176 INFO Returning 28 products.
+2019-03-08 11:50:27.4441 INFO Fetching all the Categorys from the storage
+2019-03-08 11:50:27.4441 INFO Returning 21 Category.
+2019-03-08 11:50:30.4046 INFO Fetching entity Category for insert
+2019-03-08 11:50:30.4226 WARN Category is not correct.
+2019-03-08 11:50:35.4780 INFO Fetching all the products from the storage
+2019-03-08 11:50:35.4990 INFO Returning 28 products.
+2019-03-08 11:50:36.0865 INFO Fetching all the Categorys from the storage
+2019-03-08 11:50:36.0865 INFO Returning 21 Category.
+2019-03-08 11:51:02.9740 INFO Fetching entity Category for insert
+2019-03-08 11:51:02.9930 WARN Category is not correct.
+2019-03-08 11:51:10.8041 INFO Fetching all the products from the storage
+2019-03-08 11:51:10.8270 INFO Returning 28 products.
+2019-03-08 11:51:11.2524 INFO Fetching all the Categorys from the storage
+2019-03-08 11:51:11.2524 INFO Returning 21 Category.
+2019-03-08 11:51:16.6512 INFO Fetching entity Category for insert
+2019-03-08 11:51:16.6702 WARN Category is not correct.
+2019-03-08 11:52:34.8058 INFO Fetching entity Category for insert
+2019-03-08 11:52:34.8238 WARN Category is not correct.
+2019-03-08 11:52:43.4944 INFO Fetching all the Categorys from the storage
+2019-03-08 11:52:43.4944 INFO Returning 21 Category.
+2019-03-08 11:52:46.4712 INFO Fetching entity Category for insert
+2019-03-08 11:52:46.4712 INFO Insert entity Category.
+2019-03-08 11:52:46.5131 INFO Category inserted, retuning response.
+2019-03-08 11:52:46.5630 INFO Fetching all the Categorys from the storage
+2019-03-08 11:52:46.5630 INFO Returning 22 Category.
+2019-03-08 11:52:55.6223 INFO Fetching one Category from the storage
+2019-03-08 11:52:55.6223 INFO Returning Category with ID: 2.
+2019-03-08 11:52:59.2159 INFO Fetching entity Category for insert
+2019-03-08 11:52:59.2159 INFO Updating Category with ID: 2.
+2019-03-08 11:52:59.2518 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.categories' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.CategoriesService.UpdateCategory(Int32 id, categories categories) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\CategoriesService.cs:line 102
+2019-03-08 11:53:04.0819 INFO Fetching all the products from the storage
+2019-03-08 11:53:04.1059 INFO Returning 28 products.
+2019-03-08 11:53:04.5618 INFO Fetching all the Categorys from the storage
+2019-03-08 11:53:04.5618 INFO Returning 22 Category.
+2019-03-08 11:53:54.2026 INFO Fetching all the Categorys from the storage
+2019-03-08 11:53:54.2026 INFO Returning 22 Category.
+2019-03-08 11:53:57.0630 INFO Fetching one Category from the storage
+2019-03-08 11:53:57.0670 INFO Returning Category with ID: 2.
+2019-03-08 11:53:58.9457 INFO Fetching entity Category for insert
+2019-03-08 11:53:58.9457 INFO Updating Category with ID: 2.
+2019-03-08 11:53:58.9757 WARN Update process: Something went wrong: System.InvalidOperationException: Attaching an entity of type 'BikeStores.Data.categories' failed because another entity of the same type already has the same primary key value. This can happen when using the 'Attach' method or setting the state of an entity to 'Unchanged' or 'Modified' if any entities in the graph have conflicting key values. This may be because some entities are new and have not yet received database-generated key values. In this case use the 'Add' method or the 'Added' entity state to track the graph and then set the state of non-new entities to 'Unchanged' or 'Modified' as appropriate.
+   at System.Data.Entity.Core.Objects.ObjectContext.VerifyRootForAdd(Boolean doAttach, String entitySetName, IEntityWrapper wrappedEntity, EntityEntry existingEntry, EntitySet& entitySet, Boolean& isNoOperation)
+   at System.Data.Entity.Core.Objects.ObjectContext.AttachTo(String entitySetName, Object entity)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.<>c__DisplayClassa.<Attach>b__9()
+   at System.Data.Entity.Internal.Linq.InternalSet`1.ActOnSet(Action action, EntityState newState, Object entity, String methodName)
+   at System.Data.Entity.Internal.Linq.InternalSet`1.Attach(Object entity)
+   at System.Data.Entity.DbSet`1.Attach(TEntity entity)
+   at BikeStores.Services.Services.CategoriesService.UpdateCategory(Int32 id, categories categories) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\CategoriesService.cs:line 102
+2019-03-08 11:54:01.8185 INFO Fetching all the products from the storage
+2019-03-08 11:54:01.8415 INFO Returning 28 products.
+2019-03-08 11:54:02.5295 INFO Fetching all the Categorys from the storage
+2019-03-08 11:54:02.5295 INFO Returning 22 Category.
+2019-03-08 12:09:23.1400 INFO Fetching entity Category for insert
+2019-03-08 12:09:23.1400 INFO Insert entity Category.
+2019-03-08 12:09:23.1560 INFO Category inserted, retuning response.
+2019-03-08 12:09:23.1930 INFO Fetching all the Categorys from the storage
+2019-03-08 12:09:23.1970 INFO Returning 23 Category.
+2019-03-08 12:10:04.0399 INFO Fetching all the products from the storage
+2019-03-08 12:10:04.0619 INFO Returning 28 products.
+2019-03-08 12:11:56.1034 INFO Fetching all the products from the storage
+2019-03-08 12:11:56.1254 INFO Returning 28 products.
+2019-03-08 12:11:58.9179 INFO Fetching all the Categorys from the storage
+2019-03-08 12:11:58.9179 INFO Returning 23 Category.
+2019-03-08 12:12:15.3260 INFO Fetching one Category from the storage
+2019-03-08 12:12:15.3260 INFO Returning Category with ID: 2.
+2019-03-08 12:13:13.4213 INFO Fetching entity Category for insert
+2019-03-08 12:13:17.3871 INFO Updating Category with ID: 2.
+2019-03-08 12:19:55.3082 INFO Fetching all the Categorys from the storage
+2019-03-08 12:19:55.5563 INFO Returning 23 Category.
+2019-03-08 12:19:57.7756 INFO Fetching one Category from the storage
+2019-03-08 12:19:57.8307 INFO Returning Category with ID: 2.
+2019-03-08 12:20:00.5487 INFO Fetching entity Category for insert
+2019-03-08 12:20:00.5487 INFO Updating Category with ID: 2.
+2019-03-08 12:20:00.5777 INFO Category with ID: 2 was updated.
+2019-03-08 12:20:03.4504 INFO Fetching all the products from the storage
+2019-03-08 12:20:03.5204 INFO Returning 28 products.
+2019-03-08 12:20:04.0265 INFO Fetching all the Categorys from the storage
+2019-03-08 12:20:04.0305 INFO Returning 23 Category.
+2019-03-08 13:08:09.4449 INFO Fetching all the Categorys from the storage
+2019-03-08 13:08:09.4649 INFO Returning 23 Category.
+2019-03-08 13:08:23.7152 INFO Fetching entity Category for delete
+2019-03-08 13:08:23.7252 INFO Deleting Category with ID: 1022.
+2019-03-08 13:08:23.7442 INFO Category with ID: 1022 was deleted.
+2019-03-08 13:08:25.9454 INFO Fetching entity Category for delete
+2019-03-08 13:08:25.9524 INFO Deleting Category with ID: 1021.
+2019-03-08 13:08:25.9524 INFO Category with ID: 1021 was deleted.
+2019-03-08 13:11:26.1205 INFO Fetching all the products from the storage
+2019-03-08 13:11:26.1625 INFO Fetching all the Categorys from the storage
+2019-03-08 13:11:26.6631 INFO Returning 21 Category.
+2019-03-08 13:11:26.7201 INFO Returning 28 products.
+2019-03-08 13:11:30.4228 INFO Fetching one Category from the storage
+2019-03-08 13:11:30.4765 INFO Returning Category with ID: 2.
+2019-03-08 13:11:42.9436 WARN Category is not registered
+2019-03-08 13:16:02.0089 INFO Fetching one Category from the storage
+2019-03-08 13:16:02.2339 INFO Returning Category with ID: 2.
+2019-03-08 13:16:08.6592 INFO Fetching entity Category for insert
+2019-03-08 13:16:08.6592 INFO Updating Category with ID: 2.
+2019-03-08 13:16:08.6812 INFO Category with ID: 2 was updated.
+2019-03-08 13:16:08.7042 INFO Fetching all the Categorys from the storage
+2019-03-08 13:16:08.7102 INFO Returning 21 Category.
+2019-03-08 13:20:35.1511 INFO Fetching all the Categorys from the storage
+2019-03-08 13:20:35.1561 INFO Returning 21 Category.
+2019-03-08 13:20:36.6242 INFO Fetching all the products from the storage
+2019-03-08 13:20:36.6882 INFO Returning 28 products.
+2019-03-08 13:34:32.9887 INFO Fetching all the products from the storage
+2019-03-08 13:34:33.0237 INFO Returning 28 products.
+2019-03-08 14:00:49.9943 INFO Fetching all the products from the storage
+2019-03-08 14:00:50.0443 INFO Returning 28 products.
+2019-03-08 14:01:46.4559 INFO Fetching all the products from the storage
+2019-03-08 14:01:46.4898 INFO Returning 28 products.
+2019-03-08 15:15:36.0708 INFO Fetching all the products from the storage
+2019-03-08 15:15:36.1197 INFO Returning 28 products.
+2019-03-08 15:16:14.6522 INFO Fetching all the products from the storage
+2019-03-08 15:16:14.6821 INFO Returning 28 products.
+2019-03-08 15:20:42.8325 INFO Fetching all the products from the storage
+2019-03-08 15:20:42.8605 INFO Returning 28 products.
+2019-03-08 15:21:14.0758 INFO Fetching all the products from the storage
+2019-03-08 15:21:14.1008 INFO Returning 28 products.
+2019-03-08 15:22:14.6528 INFO Fetching all the products from the storage
+2019-03-08 15:22:14.6838 INFO Returning 28 products.
+2019-03-08 15:24:27.6234 INFO Fetching all the products from the storage
+2019-03-08 15:24:27.6474 INFO Returning 28 products.
+2019-03-08 15:24:33.1742 INFO Fetching all the Categorys from the storage
+2019-03-08 15:24:33.1742 INFO Fetching one product from the storage
+2019-03-08 15:24:33.1742 INFO Returning 21 Category.
+2019-03-08 15:24:33.2042 INFO Fetching all the Categorys from the storage
+2019-03-08 15:24:33.2392 INFO Returning product with ID: 2.
+2019-03-08 15:24:33.2392 INFO Returning 12 Brand.
+2019-03-08 15:24:41.2363 INFO Fetching all the Categorys from the storage
+2019-03-08 15:24:41.2363 INFO Returning 21 Category.
+2019-03-08 15:35:10.7029 INFO Fetching all the products from the storage
+2019-03-08 15:35:10.7469 INFO Returning 28 products.
+2019-03-08 15:35:11.1969 INFO Fetching all the Categorys from the storage
+2019-03-08 15:35:11.1969 INFO Returning 21 Category.
+2019-03-08 15:35:12.0133 INFO Fetching all the products from the storage
+2019-03-08 15:35:12.0383 INFO Returning 28 products.
+2019-03-08 15:36:42.6291 INFO Fetching all the products from the storage
+2019-03-08 15:36:42.6571 INFO Returning 28 products.
+2019-03-08 15:40:18.0842 INFO Fetching all the products from the storage
+2019-03-08 15:40:18.1212 INFO Returning 28 products.
+2019-03-08 15:41:38.3059 INFO Fetching all the products from the storage
+2019-03-08 15:41:38.3389 INFO Returning 28 products.
+2019-03-08 15:43:42.2387 INFO Fetching all the products from the storage
+2019-03-08 15:43:42.2777 INFO Returning 28 products.
+2019-03-08 15:44:21.9670 INFO Fetching all the products from the storage
+2019-03-08 15:44:21.9890 INFO Returning 28 products.
+2019-03-08 15:47:18.7123 INFO Fetching all the products from the storage
+2019-03-08 15:47:18.7423 INFO Returning 28 products.
+2019-03-08 15:47:36.9645 INFO Fetching all the products from the storage
+2019-03-08 15:47:36.9945 INFO Returning 28 products.
+2019-03-08 16:09:19.5050 INFO Fetching all the products from the storage
+2019-03-08 16:09:19.5320 INFO Returning 28 products.
+2019-03-08 16:09:22.6053 INFO Fetching one product from the storage
+2019-03-08 16:09:22.6053 INFO Fetching all the Categorys from the storage
+2019-03-08 16:09:22.6053 INFO Fetching all the Categorys from the storage
+2019-03-08 16:09:22.6213 INFO Returning 12 Brand.
+2019-03-08 16:09:22.6213 INFO Returning 21 Category.
+2019-03-08 16:09:22.6213 INFO Returning product with ID: 2.
+2019-03-08 16:09:25.1889 INFO Fetching all the products from the storage
+2019-03-08 16:09:25.2099 INFO Returning 28 products.
+2019-03-08 16:09:31.8186 INFO Fetching entity product for delete
+2019-03-08 16:09:31.8236 INFO Deleting product with ID: 1019.
+2019-03-08 16:09:31.9036 INFO Product with ID: 1019 was deleted.
+2019-03-08 16:10:14.3042 INFO Fetching all the products from the storage
+2019-03-08 16:10:14.3312 INFO Returning 27 products.
+2019-03-08 16:13:57.5385 INFO Fetching all the products from the storage
+2019-03-08 16:13:57.5615 INFO Returning 27 products.
+2019-03-08 16:13:58.0915 INFO Fetching all the Categorys from the storage
+2019-03-08 16:13:58.0915 INFO Returning 21 Category.
+2019-03-08 16:18:30.1916 INFO Fetching all the Categorys from the storage
+2019-03-08 16:18:30.2026 INFO Returning 21 Category.
+2019-03-08 16:18:48.6291 INFO Fetching all the products from the storage
+2019-03-08 16:18:48.6531 INFO Returning 27 products.
+2019-03-08 16:18:50.5283 INFO Fetching all the Categorys from the storage
+2019-03-08 16:18:50.5283 INFO Returning 21 Category.
+2019-03-08 16:19:20.5025 INFO Fetching all the Categorys from the storage
+2019-03-08 16:19:20.5065 INFO Returning 21 Category.
+2019-03-08 16:19:35.2700 INFO Fetching all the Categorys from the storage
+2019-03-08 16:19:35.2750 INFO Returning 21 Category.
+2019-03-08 16:19:55.9901 INFO Fetching all the Categorys from the storage
+2019-03-08 16:19:55.9901 INFO Returning 21 Category.
+2019-03-08 16:20:53.0064 INFO Fetching all the Categorys from the storage
+2019-03-08 16:20:53.0064 INFO Returning 21 Category.
+2019-03-08 16:25:58.7550 INFO Fetching all the Categorys from the storage
+2019-03-08 16:25:58.7550 INFO Returning 21 Category.
+2019-03-08 16:26:01.3378 INFO Fetching all the products from the storage
+2019-03-08 16:26:01.3658 INFO Returning 27 products.
+2019-03-08 16:26:08.7532 INFO Fetching one product from the storage
+2019-03-08 16:26:08.7682 INFO Fetching all the Categorys from the storage
+2019-03-08 16:26:08.7773 INFO Returning 12 Brand.
+2019-03-08 16:26:08.7773 INFO Returning product with ID: 1015.
+2019-03-08 16:26:08.8572 INFO Fetching all the Categorys from the storage
+2019-03-08 16:26:08.8572 INFO Returning 21 Category.
+2019-03-08 16:26:13.8399 INFO Fetching entity product for insert
+2019-03-08 16:26:13.8399 INFO Updating Product with ID: 1015.
+2019-03-08 16:26:13.8849 INFO Product with ID: 1015 was updated.
+2019-03-08 16:26:13.9299 INFO Fetching all the products from the storage
+2019-03-08 16:26:13.9529 INFO Returning 27 products.
+2019-03-08 16:26:20.0824 INFO Fetching one product from the storage
+2019-03-08 16:26:20.0824 INFO Fetching all the Categorys from the storage
+2019-03-08 16:26:20.0904 INFO Returning product with ID: 1016.
+2019-03-08 16:26:20.0824 INFO Fetching all the Categorys from the storage
+2019-03-08 16:26:20.0904 INFO Returning 21 Category.
+2019-03-08 16:26:20.0904 INFO Returning 12 Brand.
+2019-03-08 16:26:24.1991 INFO Fetching entity product for insert
+2019-03-08 16:26:24.1991 INFO Updating Product with ID: 1016.
+2019-03-08 16:26:24.2171 INFO Product with ID: 1016 was updated.
+2019-03-08 16:26:24.2461 INFO Fetching all the products from the storage
+2019-03-08 16:26:24.2891 INFO Returning 27 products.
+2019-03-08 16:26:37.3533 INFO Fetching entity product for delete
+2019-03-08 16:26:37.3533 INFO Deleting product with ID: 1016.
+2019-03-08 16:26:37.3683 INFO Product with ID: 1016 was deleted.
+2019-03-08 16:32:18.4412 INFO Fetching all the products from the storage
+2019-03-08 16:32:18.4692 INFO Returning 26 products.
+2019-03-08 16:36:43.1501 INFO Fetching all the products from the storage
+2019-03-08 16:36:43.1751 INFO Returning 26 products.
+2019-03-08 16:36:43.9004 INFO Fetching all the Categorys from the storage
+2019-03-08 16:36:43.9004 INFO Returning 21 Category.
+2019-03-08 16:36:44.4590 INFO Fetching all the products from the storage
+2019-03-08 16:36:44.4811 INFO Returning 26 products.
+2019-03-08 16:37:06.5011 INFO Fetching all the products from the storage
+2019-03-08 16:37:06.5251 INFO Returning 26 products.
+2019-03-08 16:37:07.1215 INFO Fetching all the Categorys from the storage
+2019-03-08 16:37:07.1215 INFO Returning 21 Category.
+2019-03-08 16:46:32.7184 INFO Fetching all the products from the storage
+2019-03-08 16:46:32.7464 INFO Returning 26 products.
+2019-03-08 16:46:33.5156 INFO Fetching all the Categorys from the storage
+2019-03-08 16:46:33.5207 INFO Returning 21 Category.
+2019-03-08 16:46:35.1310 INFO Fetching all the products from the storage
+2019-03-08 16:46:35.1550 INFO Returning 26 products.
+2019-03-08 16:46:35.5774 INFO Fetching all the Categorys from the storage
+2019-03-08 16:46:35.5804 INFO Returning 21 Category.
+2019-03-08 16:46:37.1464 INFO Fetching all the products from the storage
+2019-03-08 16:46:37.1674 INFO Returning 26 products.
+2019-03-08 16:46:37.5303 INFO Fetching all the Categorys from the storage
+2019-03-08 16:46:37.5333 INFO Returning 21 Category.
+2019-03-08 16:46:42.4779 INFO Fetching entity Category for insert
+2019-03-08 16:46:42.6227 WARN Category is not correct.
+2019-03-08 16:46:48.3810 INFO Fetching entity Category for insert
+2019-03-08 16:46:48.4095 WARN Category is not correct.
+2019-03-08 16:47:04.4906 INFO Fetching entity Category for insert
+2019-03-08 16:47:04.5196 WARN Category is not correct.
+2019-03-08 17:15:10.8208 INFO Fetching all the products from the storage
+2019-03-08 17:15:10.8508 INFO Returning 26 products.
+2019-03-08 17:15:57.4827 INFO Fetching all the Categorys from the storage
+2019-03-08 17:15:57.4827 INFO Returning 21 Category.
+2019-03-08 17:16:29.6359 INFO Fetching all the products from the storage
+2019-03-08 17:16:29.6599 INFO Returning 26 products.
+2019-03-08 17:16:30.7904 INFO Fetching all the Categorys from the storage
+2019-03-08 17:16:30.7904 INFO Returning 21 Category.
+2019-03-08 17:16:30.7904 INFO Fetching all the Categorys from the storage
+2019-03-08 17:16:30.7904 INFO Returning 12 Brand.
+2019-03-08 17:18:39.1328 INFO Fetching entity product for insert
+2019-03-08 17:18:39.1328 INFO Insert entity product.
+2019-03-08 17:18:39.1848 INFO Product inserted, retuning response.
+2019-03-08 17:18:39.2678 INFO Fetching all the products from the storage
+2019-03-08 17:18:39.2938 INFO Returning 27 products.

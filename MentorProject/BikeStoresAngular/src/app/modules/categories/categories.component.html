@@ -1,0 +1,46 @@
+<div class="row">
+  <div class="col-xs-12">
+    <h1>Category List</h1>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-xs-12">
+      <div class="form-group">
+          <label for="category_name">Category Name</label>
+          <input id="category_name" class="form-control" [(ngModel)]="originalCategory.category_name" />
+        </div>
+    <button class="btn btn-primary" (click)="saveData()">
+      Add New Category
+    </button>
+  </div>
+</div>
+<br/>
+<div *ngIf="categories && categories.length">
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Edit</th>
+        <th>Category ID</th>
+        <th>Category Name</th>
+        <th>Delete</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let categ of categories">
+          <td>
+              <button (click)="editCategory(categ.category_id)" class="btn btn-danger">
+                  <i class="material-icons md-18">edit</i>
+              </button>
+            </td>
+        <td>{{categ.category_id}}</td>
+        <td>{{categ.category_name}}</td>
+        <td>
+            <button (click)="deleteCategory(categ.category_id)" class="btn btn-danger">
+                <i class="material-icons md-18">delete</i>
+            </button>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>

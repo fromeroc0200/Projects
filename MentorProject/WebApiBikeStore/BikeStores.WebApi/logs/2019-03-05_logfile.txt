@@ -1,0 +1,398 @@
+2019-03-05 12:06:50.1868 INFO Fetching all the Categorys from the storage
+2019-03-05 12:06:50.1868 INFO Fetching all the products from the storage
+2019-03-05 12:06:50.2468 INFO Fetching one product from the storage
+2019-03-05 12:06:51.6872 INFO Returning 10 Category.
+2019-03-05 12:06:51.7372 INFO Returning product with ID: 2.
+2019-03-05 12:06:51.7522 INFO Returning 24 products.
+2019-03-05 12:08:14.7556 INFO Fetching all the products from the storage
+2019-03-05 12:08:14.9176 INFO Fetching one product from the storage
+2019-03-05 12:08:14.9176 INFO Fetching all the Categorys from the storage
+2019-03-05 12:08:15.0306 INFO Returning 10 Category.
+2019-03-05 12:08:15.0556 INFO Returning product with ID: 2.
+2019-03-05 12:08:15.0836 INFO Returning 24 products.
+2019-03-05 12:08:34.7947 INFO Fetching all the products from the storage
+2019-03-05 12:08:35.1107 INFO Returning 24 products.
+2019-03-05 12:08:35.8557 INFO Fetching one product from the storage
+2019-03-05 12:08:35.8707 INFO Fetching all the Categorys from the storage
+2019-03-05 12:08:35.8777 INFO Returning 10 Category.
+2019-03-05 12:08:35.8777 INFO Returning product with ID: 2.
+2019-03-05 12:08:37.7496 INFO Fetching all the Categorys from the storage
+2019-03-05 12:08:37.7526 INFO Returning 10 Category.
+2019-03-05 12:10:43.6060 INFO Fetching one product from the storage
+2019-03-05 12:10:43.6060 INFO Fetching all the Categorys from the storage
+2019-03-05 12:10:43.6090 INFO Returning 10 Category.
+2019-03-05 12:10:43.6090 INFO Returning product with ID: 2.
+2019-03-05 12:11:00.1799 INFO Fetching all the Categorys from the storage
+2019-03-05 12:11:00.1799 INFO Returning 10 Category.
+2019-03-05 12:12:09.9932 INFO Fetching all the Categorys from the storage
+2019-03-05 12:12:10.0122 INFO Returning 10 Category.
+2019-03-05 12:12:10.9582 INFO Fetching one product from the storage
+2019-03-05 12:12:10.9582 INFO Fetching all the Categorys from the storage
+2019-03-05 12:12:10.9982 INFO Returning 10 Category.
+2019-03-05 12:12:11.0512 INFO Returning product with ID: 2.
+2019-03-05 12:12:23.7709 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:12:51.4121 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:13:37.4759 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:13:38.6160 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:13:38.9971 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:13:39.2036 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:13:39.3933 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:18:36.5517 INFO Fetching all the Categorys from the storage
+2019-03-05 12:18:36.9782 INFO Returning 10 Category.
+2019-03-05 12:18:37.3849 INFO Fetching one product from the storage
+2019-03-05 12:18:37.3849 INFO Fetching all the Categorys from the storage
+2019-03-05 12:18:37.4589 INFO Returning product with ID: 2.
+2019-03-05 12:18:37.4629 INFO Returning 10 Category.
+2019-03-05 12:19:11.7641 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:19:33.1712 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:19:41.1308 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:20:25.1202 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:21:11.9378 INFO Fetching all the Categorys from the storage
+2019-03-05 12:21:12.0268 INFO Returning 10 Category.
+2019-03-05 12:21:13.1577 INFO Fetching all the Categorys from the storage
+2019-03-05 12:21:13.1697 INFO Returning 10 Category.
+2019-03-05 12:21:13.1577 INFO Fetching one product from the storage
+2019-03-05 12:21:13.1947 INFO Returning product with ID: 2.
+2019-03-05 12:21:26.3851 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:22:10.1376 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:22:41.4186 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:25:45.9876 INFO Fetching all the Categorys from the storage
+2019-03-05 12:25:46.0596 INFO Returning 10 Category.
+2019-03-05 12:25:46.9986 INFO Fetching all the Categorys from the storage
+2019-03-05 12:25:47.0196 INFO Returning 10 Category.
+2019-03-05 12:25:47.0196 INFO Fetching one product from the storage
+2019-03-05 12:25:47.0686 INFO Returning product with ID: 2.
+2019-03-05 12:25:53.5179 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:26:09.5790 INFO Fetching one product from the storage
+2019-03-05 12:26:09.5900 INFO Fetching all the Categorys from the storage
+2019-03-05 12:26:09.6190 INFO Returning product with ID: 2.
+2019-03-05 12:26:09.6190 INFO Returning 10 Category.
+2019-03-05 12:26:09.8430 INFO Fetching all the Categorys from the storage
+2019-03-05 12:26:09.8870 INFO Returning 10 Category.
+2019-03-05 12:26:16.0918 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:27:38.4276 INFO Fetching one product from the storage
+2019-03-05 12:27:38.4276 INFO Fetching all the Categorys from the storage
+2019-03-05 12:27:38.4906 INFO Returning 10 Category.
+2019-03-05 12:27:38.5516 INFO Returning product with ID: 2.
+2019-03-05 12:27:38.5796 INFO Fetching all the Categorys from the storage
+2019-03-05 12:27:38.5936 INFO Returning 10 Category.
+2019-03-05 12:27:42.7006 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:30:32.3499 INFO Fetching entity product for insert
+2019-03-05 12:30:32.3499 INFO Insert entity product.
+2019-03-05 12:30:32.3999 INFO Product inserted, retuning response.
+2019-03-05 12:31:08.8804 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:32:41.8636 INFO Fetching all the products from the storage
+2019-03-05 12:32:43.0002 INFO Returning 25 products.
+2019-03-05 12:32:44.3059 INFO Fetching all the Categorys from the storage
+2019-03-05 12:32:44.3059 INFO Returning 10 Category.
+2019-03-05 12:32:57.0294 INFO Fetching entity product for insert
+2019-03-05 12:33:21.3126 INFO Insert entity product.
+2019-03-05 12:33:27.0496 INFO Product inserted, retuning response.
+2019-03-05 12:33:33.7859 INFO Fetching all the products from the storage
+2019-03-05 12:33:33.8099 INFO Returning 26 products.
+2019-03-05 12:34:14.9820 INFO Fetching all the products from the storage
+2019-03-05 12:34:15.0490 INFO Returning 26 products.
+2019-03-05 12:34:16.0895 INFO Fetching all the Categorys from the storage
+2019-03-05 12:34:16.1075 INFO Returning 10 Category.
+2019-03-05 12:34:16.1155 INFO Fetching one product from the storage
+2019-03-05 12:34:16.2545 INFO Returning product with ID: 2.
+2019-03-05 12:34:16.5145 INFO Fetching all the Categorys from the storage
+2019-03-05 12:34:16.5205 INFO Returning 10 Category.
+2019-03-05 12:34:32.9791 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:36:59.5803 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-05 12:36:59.9073 INFO Fetching all the Categorys from the storage
+2019-03-05 12:36:59.9073 INFO Fetching one product from the storage
+2019-03-05 12:36:59.9073 INFO Fetching all the Categorys from the storage
+2019-03-05 12:36:59.9393 INFO Returning 10 Category.
+2019-03-05 12:36:59.9393 INFO Returning 10 Category.
+2019-03-05 12:36:59.9943 INFO Returning product with ID: 2.
+2019-03-05 12:37:12.3776 INFO Fetching entity product for insert
+2019-03-05 12:37:12.3776 INFO Insert entity product.
+2019-03-05 12:37:12.3907 INFO Product inserted, retuning response.
+2019-03-05 12:37:12.4586 INFO Fetching all the products from the storage
+2019-03-05 12:37:12.4776 INFO Returning 27 products.
+2019-03-05 12:37:25.1044 INFO Fetching entity product for delete
+2019-03-05 12:37:25.1044 INFO Deleting product with ID: 1010.
+2019-03-05 12:37:25.1322 INFO Product with ID: 1010 was deleted.
+2019-03-05 12:57:08.7228 INFO Fetching all the products from the storage
+2019-03-05 12:57:08.9504 INFO Returning 26 products.
+2019-03-05 12:58:03.0302 INFO Fetching all the products from the storage
+2019-03-05 12:58:03.2752 INFO Returning 26 products.
+2019-03-05 12:58:04.7354 INFO Fetching all the products from the storage
+2019-03-05 12:58:04.7634 INFO Returning 26 products.
+2019-03-05 12:58:05.5455 INFO Fetching all the products from the storage
+2019-03-05 12:58:05.5705 INFO Returning 26 products.
+2019-03-05 12:58:06.2071 INFO Fetching all the products from the storage
+2019-03-05 12:58:06.2381 INFO Returning 26 products.
+2019-03-05 12:58:12.0973 INFO Fetching all the Categorys from the storage
+2019-03-05 12:58:12.1013 INFO Returning 10 Category.
+2019-03-05 12:58:13.3622 INFO Fetching all the Categorys from the storage
+2019-03-05 12:58:13.3622 INFO Returning 10 Category.
+2019-03-05 12:58:13.9640 INFO Fetching all the Categorys from the storage
+2019-03-05 12:58:13.9640 INFO Returning 10 Category.
+2019-03-05 12:58:14.9610 INFO Fetching all the Categorys from the storage
+2019-03-05 12:58:14.9610 INFO Returning 10 Category.
+2019-03-05 12:59:43.9186 INFO Fetching all the Categorys from the storage
+2019-03-05 12:59:43.9355 INFO Returning 10 Category.
+2019-03-05 12:59:56.0925 INFO Fetching all the products from the storage
+2019-03-05 12:59:56.1206 INFO Returning 26 products.
+2019-03-05 13:27:19.2669 INFO Fetching all the products from the storage
+2019-03-05 13:27:19.5198 INFO Returning 26 products.
+2019-03-05 13:28:27.2243 INFO Fetching all the products from the storage
+2019-03-05 13:28:27.4513 INFO Returning 26 products.
+2019-03-05 13:28:41.8023 INFO Fetching entity product for delete
+2019-03-05 13:28:41.8593 WARN Delete process: Product with ID: 1003 is not found or not exist
+2019-03-05 13:28:48.8630 INFO Fetching entity product for delete
+2019-03-05 13:28:48.8630 WARN Delete process: Product with ID: 1004 is not found or not exist
+2019-03-05 13:29:03.2639 INFO Fetching all the products from the storage
+2019-03-05 13:29:03.2889 INFO Returning 26 products.
+2019-03-05 13:29:16.7656 INFO Fetching entity product for insert
+2019-03-05 13:29:16.7656 INFO Insert entity product.
+2019-03-05 13:29:16.7898 INFO Product inserted, retuning response.
+2019-03-05 13:30:00.6915 INFO Fetching all the Categorys from the storage
+2019-03-05 13:30:00.6915 INFO Returning 10 Category.
+2019-03-05 13:30:42.4158 INFO Fetching all the Categorys from the storage
+2019-03-05 13:30:42.5937 INFO Returning 10 Category.
+2019-03-05 13:32:19.0567 INFO Fetching entity product for delete
+2019-03-05 13:32:19.2868 WARN Delete process: Product with ID: 1004 is not found or not exist
+2019-03-05 13:38:01.6528 INFO Fetching one product from the storage
+2019-03-05 13:38:01.9448 INFO Returning product with ID: 2.
+2019-03-05 13:38:03.1233 INFO Fetching one product from the storage
+2019-03-05 13:38:03.1233 INFO Returning product with ID: 2.
+2019-03-05 13:38:19.6333 INFO Fetching all the Categorys from the storage
+2019-03-05 13:38:19.6393 INFO Returning 10 Category.
+2019-03-05 13:38:51.9289 INFO Fetching one Category from the storage
+2019-03-05 13:38:52.1618 INFO Returning Category with ID: 2.
+2019-03-05 13:39:55.0758 INFO Fetching all the Categorys from the storage
+2019-03-05 13:39:55.2444 INFO Returning 10 Category.
+2019-03-05 13:40:34.4793 INFO Fetching all the Categorys from the storage
+2019-03-05 13:40:34.6471 INFO Returning 10 Category.
+2019-03-05 13:41:36.5687 INFO Fetching all the Categorys from the storage
+2019-03-05 13:41:36.7357 INFO Returning 10 Category.
+2019-03-05 13:52:32.1450 INFO Fetching all the Categorys from the storage
+2019-03-05 13:52:32.5828 INFO Returning 10 Category.
+2019-03-05 13:53:48.1411 INFO Fetching all the products from the storage
+2019-03-05 13:53:48.3860 INFO Returning 27 products.
+2019-03-05 13:54:28.6430 INFO Fetching all the Categorys from the storage
+2019-03-05 13:54:29.0696 INFO Returning 10 Category.
+2019-03-05 13:55:04.3911 INFO Fetching all the Categorys from the storage
+2019-03-05 13:55:04.3951 INFO Returning 10 Category.
+2019-03-05 13:55:16.6969 INFO Fetching all the Categorys from the storage
+2019-03-05 13:55:16.6969 INFO Returning 10 Category.
+2019-03-05 13:58:41.3142 INFO Fetching one Category from the storage
+2019-03-05 13:58:41.5363 INFO Returning Category with ID: 2.
+2019-03-05 13:59:14.4779 INFO Fetching one Category from the storage
+2019-03-05 13:59:14.6979 INFO Returning Category with ID: 3.
+2019-03-05 14:00:04.1584 INFO Fetching one product from the storage
+2019-03-05 14:00:04.2204 INFO Returning product with ID: 2.
+2019-03-05 14:00:19.6430 INFO Fetching entity product for insert
+2019-03-05 14:00:19.6450 INFO Updating Product with ID: 1004.
+2019-03-05 14:00:19.6450 WARN Update process: Product with ID: 1004 is not found or not exist
+2019-03-05 16:06:52.8257 INFO Fetching all the products from the storage
+2019-03-05 16:06:53.0812 INFO Returning 27 products.
+2019-03-05 16:06:57.3334 INFO Fetching all the Categorys from the storage
+2019-03-05 16:06:57.3334 INFO Returning 10 Category.
+2019-03-05 16:07:42.4773 INFO Fetching all the Categorys from the storage
+2019-03-05 16:07:42.5463 INFO Fetching all the Categorys from the storage
+2019-03-05 16:07:42.5463 INFO Returning 10 Category.
+2019-03-05 16:07:42.5503 INFO Returning 12 Brand.
+2019-03-05 16:07:58.3083 INFO Fetching entity product for insert
+2019-03-05 16:07:58.3083 INFO Insert entity product.
+2019-03-05 16:07:58.3498 INFO Product inserted, retuning response.
+2019-03-05 16:07:58.4373 INFO Fetching all the products from the storage
+2019-03-05 16:07:58.4593 INFO Returning 28 products.
+2019-03-05 16:08:08.5345 INFO Fetching entity product for delete
+2019-03-05 16:08:08.5925 INFO Deleting product with ID: 1012.
+2019-03-05 16:08:08.6055 INFO Product with ID: 1012 was deleted.
+2019-03-05 16:08:11.5932 INFO Fetching all the Categorys from the storage
+2019-03-05 16:08:11.5962 INFO Fetching one product from the storage
+2019-03-05 16:08:11.5962 INFO Returning 12 Brand.
+2019-03-05 16:08:11.5962 INFO Returning product with ID: 1011.
+2019-03-05 16:08:14.2663 INFO Fetching all the Categorys from the storage
+2019-03-05 16:08:14.2663 INFO Returning 10 Category.
+2019-03-05 16:23:03.0808 INFO Fetching all the Categorys from the storage
+2019-03-05 16:23:05.3327 INFO Fetching all the Categorys from the storage
+2019-03-05 16:23:05.3437 INFO Fetching one product from the storage
+2019-03-05 16:23:05.5360 INFO Returning 10 Category.
+2019-03-05 16:23:05.5360 INFO Returning 12 Brand.
+2019-03-05 16:23:05.5753 INFO Returning product with ID: 1011.
+2019-03-05 16:23:16.1948 INFO Fetching all the products from the storage
+2019-03-05 16:23:16.2228 INFO Returning 27 products.
+2019-03-05 16:23:17.3989 INFO Fetching all the Categorys from the storage
+2019-03-05 16:23:17.3989 INFO Returning 12 Brand.
+2019-03-05 16:23:17.3989 INFO Fetching all the Categorys from the storage
+2019-03-05 16:23:17.4049 INFO Returning 10 Category.
+2019-03-05 16:23:32.4905 INFO Fetching one product from the storage
+2019-03-05 16:23:32.4905 INFO Fetching all the Categorys from the storage
+2019-03-05 16:23:32.5035 INFO Fetching all the Categorys from the storage
+2019-03-05 16:23:32.5035 INFO Returning 12 Brand.
+2019-03-05 16:23:32.5035 INFO Returning 10 Category.
+2019-03-05 16:23:32.5035 INFO Returning product with ID: 2.
+2019-03-05 16:23:34.5115 INFO Fetching entity product for insert
+2019-03-05 16:23:34.5135 INFO Insert entity product.
+2019-03-05 16:23:34.5385 INFO Product inserted, retuning response.
+2019-03-05 16:23:34.5925 INFO Fetching all the products from the storage
+2019-03-05 16:23:34.6175 INFO Returning 28 products.
+2019-03-05 16:23:36.5005 INFO Fetching all the products from the storage
+2019-03-05 16:23:36.5405 INFO Returning 28 products.
+2019-03-05 16:50:58.8260 INFO Fetching all the Categorys from the storage
+2019-03-05 16:50:58.8350 INFO Returning 10 Category.
+2019-03-05 16:54:32.5663 INFO Fetching all the Categorys from the storage
+2019-03-05 16:54:33.6601 INFO Fetching all the Categorys from the storage
+2019-03-05 16:54:33.6601 INFO Returning 10 Category.
+2019-03-05 16:54:33.6601 INFO Returning 10 Category.
+2019-03-05 16:54:53.1228 INFO Fetching all the Categorys from the storage
+2019-03-05 16:54:57.8215 INFO Returning 10 Category.
+2019-03-05 16:55:24.6307 INFO Fetching all the Categorys from the storage
+2019-03-05 16:55:24.6307 INFO Returning 10 Category.
+2019-03-05 16:57:14.9007 INFO Fetching all the products from the storage
+2019-03-05 16:57:14.9257 INFO Returning 28 products.
+2019-03-05 16:57:22.3211 INFO Fetching all the Categorys from the storage
+2019-03-05 16:57:22.3211 INFO Returning 10 Category.
+2019-03-05 16:58:46.2696 INFO Fetching all the Categorys from the storage
+2019-03-05 16:58:46.2696 INFO Returning 10 Category.
+2019-03-05 16:59:53.9613 INFO Fetching all the Categorys from the storage
+2019-03-05 16:59:53.9613 INFO Returning 10 Category.
+2019-03-05 17:20:48.8317 INFO Fetching all the products from the storage
+2019-03-05 17:20:48.8595 INFO Returning 28 products.
+2019-03-05 17:20:51.5484 INFO Fetching all the Categorys from the storage
+2019-03-05 17:20:51.5765 INFO Returning 10 Category.
+2019-03-05 17:37:17.5678 INFO Fetching all the products from the storage
+2019-03-05 17:37:17.5979 INFO Returning 28 products.
+2019-03-05 17:37:20.1287 INFO Fetching all the Categorys from the storage
+2019-03-05 17:37:20.1287 INFO Returning 10 Category.
+2019-03-05 17:38:39.0549 INFO Fetching all the Categorys from the storage
+2019-03-05 17:38:39.0549 INFO Returning 10 Category.
+2019-03-05 17:39:04.4481 INFO Fetching all the Categorys from the storage
+2019-03-05 17:39:04.4481 INFO Returning 10 Category.
+2019-03-05 17:43:21.7888 INFO Fetching all the Categorys from the storage
+2019-03-05 17:43:21.8018 INFO Returning 10 Category.
+2019-03-05 17:49:38.4833 INFO Fetching all the Categorys from the storage
+2019-03-05 17:49:38.4833 INFO Returning 10 Category.
+2019-03-05 17:52:41.5652 INFO Fetching all the Categorys from the storage
+2019-03-05 17:52:41.5652 INFO Returning 10 Category.
+2019-03-05 17:54:27.3111 INFO Fetching all the Categorys from the storage
+2019-03-05 17:54:27.3951 INFO Returning 10 Category.
+2019-03-05 17:55:37.7780 INFO Fetching all the Categorys from the storage
+2019-03-05 17:55:37.7780 INFO Returning 10 Category.
+2019-03-05 18:09:35.0270 INFO Fetching all the Categorys from the storage
+2019-03-05 18:09:35.0420 INFO Returning 10 Category.
+2019-03-05 18:09:59.4994 INFO Fetching all the Categorys from the storage
+2019-03-05 18:09:59.4994 INFO Returning 10 Category.
+2019-03-05 18:10:03.6992 INFO Fetching all the Categorys from the storage
+2019-03-05 18:10:03.6992 INFO Returning 10 Category.
+2019-03-05 18:13:33.7919 INFO Fetching all the Categorys from the storage
+2019-03-05 18:13:33.7919 INFO Returning 10 Category.
+2019-03-05 18:14:04.3202 INFO Fetching all the Categorys from the storage
+2019-03-05 18:14:04.3452 INFO Returning 10 Category.
+2019-03-05 18:14:08.0953 INFO Fetching all the Categorys from the storage
+2019-03-05 18:14:08.1003 INFO Returning 10 Category.
+2019-03-05 18:14:26.3441 INFO Fetching all the Categorys from the storage
+2019-03-05 18:14:26.3511 INFO Returning 10 Category.
+2019-03-05 18:14:36.6350 INFO Fetching all the Categorys from the storage
+2019-03-05 18:14:36.6350 INFO Returning 10 Category.
+2019-03-05 18:14:54.7793 INFO Fetching all the Categorys from the storage
+2019-03-05 18:14:54.7793 INFO Returning 10 Category.
+2019-03-05 18:16:16.3645 INFO Fetching all the Categorys from the storage
+2019-03-05 18:16:16.3745 INFO Returning 10 Category.
+2019-03-05 18:16:34.2172 INFO Fetching all the Categorys from the storage
+2019-03-05 18:16:34.2172 INFO Returning 10 Category.
+2019-03-05 18:16:42.2988 INFO Fetching all the Categorys from the storage
+2019-03-05 18:16:42.2988 INFO Returning 10 Category.
+2019-03-05 18:19:32.3039 INFO Fetching all the Categorys from the storage
+2019-03-05 18:19:32.3349 INFO Returning 10 Category.
+2019-03-05 18:19:48.1036 INFO Fetching all the Categorys from the storage
+2019-03-05 18:19:48.1076 INFO Returning 10 Category.
+2019-03-05 18:19:49.5446 INFO Fetching all the Categorys from the storage
+2019-03-05 18:19:49.5446 INFO Returning 10 Category.
+2019-03-05 18:20:31.8236 INFO Fetching all the Categorys from the storage
+2019-03-05 18:20:31.8236 INFO Returning 10 Category.
+2019-03-05 18:20:33.7417 INFO Fetching all the Categorys from the storage
+2019-03-05 18:20:33.7457 INFO Returning 10 Category.
+2019-03-05 18:21:48.8142 INFO Fetching all the Categorys from the storage
+2019-03-05 18:21:48.8252 INFO Returning 10 Category.
+2019-03-05 18:21:51.6896 INFO Fetching all the Categorys from the storage
+2019-03-05 18:21:51.6896 INFO Returning 10 Category.
+2019-03-05 18:22:31.9327 INFO Fetching all the Categorys from the storage
+2019-03-05 18:22:31.9387 INFO Returning 10 Category.
+2019-03-05 18:23:09.6069 INFO Fetching all the Categorys from the storage
+2019-03-05 18:23:09.6069 INFO Returning 10 Category.
+2019-03-05 18:23:14.7933 INFO Fetching all the Categorys from the storage
+2019-03-05 18:23:14.7933 INFO Returning 10 Category.
+2019-03-05 18:23:28.4464 INFO Fetching one Category from the storage
+2019-03-05 18:23:28.4544 INFO Returning Category with ID: 3.
+2019-03-05 18:23:29.3095 INFO Fetching one Category from the storage
+2019-03-05 18:23:29.3095 INFO Returning Category with ID: 3.
+2019-03-05 18:24:25.8728 INFO Fetching all the Categorys from the storage
+2019-03-05 18:24:25.8728 INFO Returning 10 Category.
+2019-03-05 18:24:28.4274 INFO Fetching all the Categorys from the storage
+2019-03-05 18:24:28.4274 INFO Returning 10 Category.
+2019-03-05 18:24:33.2871 INFO Fetching all the Categorys from the storage
+2019-03-05 18:24:33.2871 INFO Returning 10 Category.
+2019-03-05 18:25:34.9404 INFO Fetching all the Categorys from the storage
+2019-03-05 18:25:35.0474 INFO Returning 10 Category.
+2019-03-05 18:25:58.5521 INFO Fetching all the Categorys from the storage
+2019-03-05 18:25:58.6101 INFO Returning 10 Category.
+2019-03-05 18:27:27.1240 INFO Fetching all the Categorys from the storage
+2019-03-05 18:27:27.3145 INFO Returning 10 Category.
+2019-03-05 18:27:57.2800 INFO Fetching all the products from the storage
+2019-03-05 18:27:57.3530 INFO Returning 28 products.
+2019-03-05 18:27:58.1384 INFO Fetching all the products from the storage
+2019-03-05 18:27:58.1704 INFO Returning 28 products.
+2019-03-05 18:27:58.5974 INFO Fetching all the products from the storage
+2019-03-05 18:27:58.6214 INFO Returning 28 products.
+2019-03-05 18:29:00.5712 INFO Fetching one product from the storage
+2019-03-05 18:29:00.8492 INFO Returning product with ID: 2.
+2019-03-05 18:29:02.4196 INFO Fetching one product from the storage
+2019-03-05 18:29:02.4196 INFO Returning product with ID: 2.
+2019-03-05 18:29:16.8078 INFO Fetching all the Categorys from the storage
+2019-03-05 18:29:16.8078 INFO Returning 10 Category.
+2019-03-05 18:30:16.0120 INFO Fetching all the Categorys from the storage
+2019-03-05 18:30:16.1710 INFO Returning 10 Category.
+2019-03-05 18:31:16.3754 INFO Fetching one Category from the storage
+2019-03-05 18:31:16.5916 INFO Returning Category with ID: 2.
+2019-03-05 18:31:50.3827 INFO Fetching one Category from the storage
+2019-03-05 18:31:50.3827 INFO Returning Category with ID: 1.
+2019-03-05 18:33:10.7658 INFO Fetching all the Categorys from the storage
+2019-03-05 18:33:10.7938 INFO Returning 10 Category.
+2019-03-05 18:33:23.4977 INFO Fetching one Category from the storage
+2019-03-05 18:33:23.4977 INFO Returning Category with ID: 1003.
+2019-03-05 18:33:28.1007 INFO Fetching entity Category for insert
+2019-03-05 18:33:28.1037 INFO Insert entity Category.
+2019-03-05 18:33:28.1267 INFO Category inserted, retuning response.
+2019-03-05 18:33:53.0173 INFO Fetching all the Categorys from the storage
+2019-03-05 18:33:53.0173 INFO Returning 11 Category.
+2019-03-05 18:37:57.0175 INFO Fetching one Category from the storage
+2019-03-05 18:37:57.0175 INFO Returning Category with ID: 1004.
+2019-03-05 18:38:03.4483 INFO Fetching entity Category for insert
+2019-03-05 18:38:03.4493 INFO Insert entity Category.
+2019-03-05 18:38:03.4493 INFO Category inserted, retuning response.
+2019-03-05 18:40:34.4626 INFO Fetching all the Categorys from the storage
+2019-03-05 18:40:34.4666 INFO Returning 12 Category.
+2019-03-05 18:40:48.7021 INFO Fetching one Category from the storage
+2019-03-05 18:40:48.7021 INFO Returning Category with ID: 1005.
+2019-03-05 18:41:10.7197 INFO Fetching entity Category for insert
+2019-03-05 18:41:10.7197 INFO Insert entity Category.
+2019-03-05 18:41:10.7317 INFO Category inserted, retuning response.
+2019-03-05 18:41:29.2463 INFO Fetching entity Category for insert
+2019-03-05 18:41:31.2949 INFO Insert entity Category.
+2019-03-05 18:41:31.2949 INFO Category inserted, retuning response.
+2019-03-05 18:42:04.5043 INFO Fetching all the Categorys from the storage
+2019-03-05 18:42:04.5043 INFO Returning 14 Category.
+2019-03-05 18:45:30.1244 INFO Fetching entity product for insert
+2019-03-05 18:45:30.1374 INFO Updating Product with ID: 1004.
+2019-03-05 18:45:30.3434 WARN Update process: Product with ID: 1004 is not found or not exist
+2019-03-05 18:45:37.9754 INFO Fetching one product from the storage
+2019-03-05 18:45:38.0274 INFO Returning product with ID: 2.
+2019-03-05 18:45:43.3341 INFO Fetching one product from the storage
+2019-03-05 18:45:43.3411 INFO Returning product with ID: 3.
+2019-03-05 18:45:49.1880 INFO Fetching entity product for insert
+2019-03-05 18:45:49.1880 INFO Insert entity product.
+2019-03-05 18:45:49.2120 INFO Product inserted, retuning response.
+2019-03-05 18:45:58.6229 INFO Fetching entity product for insert
+2019-03-05 18:45:58.6229 INFO Insert entity product.
+2019-03-05 18:45:58.6229 INFO Product inserted, retuning response.
+2019-03-05 18:46:10.8972 INFO Fetching one product from the storage
+2019-03-05 18:46:10.9031 INFO Returning product with ID: 1008.
+2019-03-05 18:46:35.1316 INFO Fetching one Category from the storage
+2019-03-05 18:46:35.1376 INFO Returning Category with ID: 1.

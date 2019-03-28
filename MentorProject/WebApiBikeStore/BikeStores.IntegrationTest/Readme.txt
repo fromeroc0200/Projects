@@ -1,0 +1,1 @@
+﻿install nuget package Microsoft.AspNetCore.App fro this test project

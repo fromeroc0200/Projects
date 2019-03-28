@@ -5,3 +5,10 @@ C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Abstract\obj\Debug\Abst
 C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
 C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Abstract\obj\Debug\Abstract.exe
 C:\Users\f.romerocuellar\source\repos\ConceptsPrograming\Abstract\obj\Debug\Abstract.pdb
+C:\Projects\ConceptsPrograming\Abstract\bin\Debug\Abstract.exe.config
+C:\Projects\ConceptsPrograming\Abstract\bin\Debug\Abstract.exe
+C:\Projects\ConceptsPrograming\Abstract\bin\Debug\Abstract.pdb
+C:\Projects\ConceptsPrograming\Abstract\obj\Debug\Abstract.csprojAssemblyReference.cache
+C:\Projects\ConceptsPrograming\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Projects\ConceptsPrograming\Abstract\obj\Debug\Abstract.exe
+C:\Projects\ConceptsPrograming\Abstract\obj\Debug\Abstract.pdb

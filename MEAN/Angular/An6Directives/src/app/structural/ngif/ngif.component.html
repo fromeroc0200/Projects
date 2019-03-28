@@ -1,0 +1,10 @@
+<h1>NgIf Structural Directive</h1>
+<ul>
+  <!--El ng-container lo utilizamos para poder interctuar con el *ngFor y *ngIf, ya que no pueden estar en un mismo elemento-->
+  <ng-container *ngFor="let usr of users$">
+    <!---Mostrara los usuarios activos de la lista y eliminara los que nos estan activos (no los mostrara en el resultado)-->
+    <li *ngIf= "usr.active">
+      Nombre: {{usr.name}}
+    </li>
+  </ng-container>
+</ul>

@@ -1,0 +1,107 @@
+2019-03-20 16:14:46.9650 INFO Fetching all the products from the storage
+2019-03-20 16:14:46.9650 INFO Fetching all the products from the storage
+2019-03-20 16:14:46.9650 INFO Fetching all the products from the storage
+2019-03-20 16:14:47.4950 INFO Login success.
+2019-03-20 16:14:47.4950 INFO Login success.
+2019-03-20 16:14:47.4950 INFO Login success.
+2019-03-20 16:15:01.4092 INFO Fetching all the products from the storage
+2019-03-20 16:15:01.4202 INFO Login success.
+2019-03-20 16:18:06.7641 INFO Fetching all the products from the storage
+2019-03-20 16:18:06.7801 INFO Login success.
+2019-03-20 16:20:18.1034 INFO Fetching all the products from the storage
+2019-03-20 16:20:18.1156 INFO Login success.
+2019-03-20 16:20:47.0436 INFO Fetching all the products from the storage
+2019-03-20 16:20:47.0532 INFO Login success.
+2019-03-20 16:21:01.4544 INFO Fetching all the products from the storage
+2019-03-20 16:21:01.4544 INFO Login success.
+2019-03-20 16:24:34.8089 INFO Fetching all the products from the storage
+2019-03-20 16:24:34.8279 INFO Login success.
+2019-03-20 16:24:39.4779 INFO Fetching all the products from the storage
+2019-03-20 16:24:39.4868 INFO Login success.
+2019-03-20 16:26:22.9911 INFO Fetching all the products from the storage
+2019-03-20 16:26:23.0051 INFO Login success.
+2019-03-20 16:28:15.1648 INFO Fetching all the products from the storage
+2019-03-20 16:28:15.1778 INFO Login success.
+2019-03-20 16:30:28.6398 INFO Fetching all the products from the storage
+2019-03-20 16:30:28.6548 INFO Login success.
+2019-03-20 16:34:11.8940 INFO Fetching all the products from the storage
+2019-03-20 16:34:11.9150 INFO Login success.
+2019-03-20 16:34:51.4037 INFO Fetching all the products from the storage
+2019-03-20 16:34:51.4037 INFO Login success.
+2019-03-20 16:37:53.5424 INFO Fetching all the products from the storage
+2019-03-20 16:37:53.9246 INFO Login success.
+2019-03-20 16:38:39.0156 INFO Fetching all the products from the storage
+2019-03-20 16:38:39.0156 INFO Login success.
+2019-03-20 16:39:12.4961 INFO Fetching all the products from the storage
+2019-03-20 16:39:12.5131 INFO Login success.
+2019-03-20 16:42:30.9231 INFO Fetching all the products from the storage
+2019-03-20 16:42:30.9362 INFO Login success.
+2019-03-20 16:42:52.8153 INFO Fetching all the products from the storage
+2019-03-20 16:42:52.8244 INFO Login success.
+2019-03-20 16:44:16.1154 INFO Fetching all the products from the storage
+2019-03-20 16:44:16.1305 INFO Login success.
+2019-03-20 16:49:11.2215 INFO Fetching all the products from the storage
+2019-03-20 16:49:11.2407 INFO Login success.
+2019-03-20 16:51:37.4352 INFO Fetching all the products from the storage
+2019-03-20 16:51:37.4497 INFO Login success.
+2019-03-20 17:15:20.1895 INFO Fetching all the products from the storage
+2019-03-20 17:15:24.4025 INFO Fetching all the products from the storage
+2019-03-20 17:15:39.6948 INFO Fetching all the products from the storage
+2019-03-20 17:15:45.6484 INFO Fetching all the products from the storage
+2019-03-20 17:15:59.8307 INFO Fetching all the products from the storage
+2019-03-20 17:21:01.1031 INFO Fetching all the products from the storage
+2019-03-20 17:21:01.5352 INFO Login success.
+2019-03-20 17:22:03.8928 INFO Fetching all the products from the storage
+2019-03-20 17:22:03.9060 INFO Login success.
+2019-03-20 17:23:11.7857 INFO Fetching all the products from the storage
+2019-03-20 17:23:11.8008 INFO Login success.
+2019-03-20 17:25:05.4395 INFO Fetching all the products from the storage
+2019-03-20 17:25:05.4535 INFO Login success.
+2019-03-20 17:25:16.9804 INFO Fetching all the products from the storage
+2019-03-20 17:25:17.0829 INFO Returning 27 products.
+2019-03-20 17:31:26.9097 INFO Fetching all the products from the storage
+2019-03-20 17:31:26.9228 INFO Login success.
+2019-03-20 17:32:32.0592 INFO Fetching all the products from the storage
+2019-03-20 17:32:32.0732 INFO Login success.
+2019-03-20 17:32:41.4212 INFO Fetching all the products from the storage
+2019-03-20 17:32:41.4572 INFO Returning 27 products.
+2019-03-20 17:32:54.7382 INFO Fetching all the products from the storage
+2019-03-20 17:32:54.7542 INFO Login success.
+2019-03-20 17:32:57.4083 INFO Fetching all the products from the storage
+2019-03-20 17:32:57.4435 INFO Returning 27 products.
+2019-03-20 17:33:00.9455 INFO Fetching all the products from the storage
+2019-03-20 17:33:00.9881 INFO Returning 27 products.
+2019-03-20 17:33:02.6084 INFO Fetching all the Categorys from the storage
+2019-03-20 17:33:02.6084 INFO Fetching all the Categorys from the storage
+2019-03-20 17:33:02.6154 INFO Returning 12 Brand.
+2019-03-20 17:33:02.6154 INFO Returning 21 Category.
+2019-03-20 17:33:06.5581 INFO Fetching all the products from the storage
+2019-03-20 17:33:06.5892 INFO Returning 27 products.
+2019-03-20 17:33:07.6469 INFO Fetching all the Categorys from the storage
+2019-03-20 17:33:07.6469 INFO Returning 12 Brand.
+2019-03-20 17:33:07.6469 INFO Fetching all the Categorys from the storage
+2019-03-20 17:33:07.6620 INFO Returning 21 Category.
+2019-03-20 17:33:07.6620 INFO Fetching one product from the storage
+2019-03-20 17:33:07.6880 INFO Returning product with ID: 2.
+2019-03-20 17:33:09.7479 INFO Fetching all the products from the storage
+2019-03-20 17:33:09.7690 INFO Returning 27 products.
+2019-03-20 17:34:12.9258 INFO Fetching all the products from the storage
+2019-03-20 17:34:12.9358 INFO Login success.
+2019-03-20 17:34:13.0626 INFO Fetching all the products from the storage
+2019-03-20 17:34:13.0985 INFO Returning 27 products.
+2019-03-20 17:34:15.5712 INFO Fetching all the products from the storage
+2019-03-20 17:34:15.6192 INFO Returning 27 products.
+2019-03-20 17:34:20.2457 INFO Fetching all the products from the storage
+2019-03-20 17:34:20.2767 INFO Returning 27 products.
+2019-03-20 17:35:00.1785 INFO Fetching all the products from the storage
+2019-03-20 17:35:00.1935 INFO Login success.
+2019-03-20 17:35:00.3441 INFO Fetching all the Categorys from the storage
+2019-03-20 17:35:00.3491 INFO Returning 21 Category.
+2019-03-20 17:35:02.4975 INFO Fetching all the products from the storage
+2019-03-20 17:35:02.5185 INFO Returning 27 products.
+2019-03-20 17:35:03.2215 INFO Fetching all the Categorys from the storage
+2019-03-20 17:35:03.2265 INFO Returning 21 Category.
+2019-03-20 17:35:57.9546 INFO Fetching all the products from the storage
+2019-03-20 17:35:57.9680 INFO Login success.
+2019-03-20 17:35:59.0127 INFO Fetching all the products from the storage
+2019-03-20 17:35:59.0478 INFO Returning 27 products.

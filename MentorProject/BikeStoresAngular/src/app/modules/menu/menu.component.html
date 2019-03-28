@@ -1,0 +1,53 @@
+<!--<nav class="navbar nav-justified navbar-fixed-top navbar-inverse" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <a routerLink="/dashboard" class="navbar-brand">
+        Home
+      </a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li>
+        <a routerLink="/products" *ngIf="securityObject.canAccessProducts">Products</a>
+      </li>
+      <li>
+        <a routerLink="/categories" *ngIf="securityObject.canAccessCategories">Categories</a>
+      </li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li>
+
+        <a routerLink="login" *ngIf="!securityObject.isAuthenticated">Login</a>
+        <a href="#" (onclick)="logout()" *ngIf="securityObject.isAuthenticated">Logout {{securityObject.userName}}</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+-->
+<nav class="navbar navbar-expand-lg navbar-light navbar-laravel">
+    <div class="container">
+        <a routerLink="/dashboard" class="navbar-brand" href="#">Bike Store</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <ul class="navbar-nav ml-auto">
+            <li>
+              <a class="nav-link" routerLink="/products" *ngIf="securityObject.CanAccessProducts">Products</a>
+            </li>
+            <li>
+              <a class="nav-link" routerLink="/categories" *ngIf="securityObject.CanAccessCategory">Categories</a>
+            </li>
+          </ul>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" routerLink="login" *ngIf="!securityObject.IsAuthenticated">Login</a>
+                    <a class="nav-link" href="#" (onclick)="logout()" *ngIf="securityObject.IsAuthenticated">Logout {{securityObject.UserName}}</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Register</a>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</nav>

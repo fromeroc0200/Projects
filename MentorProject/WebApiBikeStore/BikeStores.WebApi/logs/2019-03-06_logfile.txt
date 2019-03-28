@@ -1,0 +1,45 @@
+2019-03-06 11:07:40.9315 INFO Fetching entity Category for delete
+2019-03-06 11:07:40.9645 INFO Deleting Category with ID: 1007.
+2019-03-06 11:07:40.9885 INFO Category with ID: 1007 was deleted.
+2019-03-06 11:07:57.9923 INFO Fetching entity Category for delete
+2019-03-06 11:07:57.9933 INFO Deleting Category with ID: 1006.
+2019-03-06 11:07:57.9933 INFO Category with ID: 1006 was deleted.
+2019-03-06 11:57:20.3001 INFO Fetching all the products from the storage
+2019-03-06 11:57:20.6981 INFO Returning 30 products.
+2019-03-06 11:58:07.8534 INFO Fetching entity product for insert
+2019-03-06 11:58:07.8534 INFO Insert entity product.
+2019-03-06 11:58:07.8884 INFO Product inserted, retuning response.
+2019-03-06 11:58:27.8239 INFO Fetching one Category from the storage
+2019-03-06 11:58:27.8814 INFO Returning Category with ID: 2.
+2019-03-06 11:59:43.1983 INFO Fetching entity Category for insert
+2019-03-06 11:59:43.1983 INFO Insert entity Category.
+2019-03-06 11:59:43.2123 INFO Category inserted, retuning response.
+2019-03-06 12:05:34.0094 INFO Fetching entity Category for insert
+2019-03-06 12:05:34.0224 INFO Insert entity Category.
+2019-03-06 12:05:34.1945 INFO Category inserted, retuning response.
+2019-03-06 12:08:42.5003 INFO Fetching all the products from the storage
+2019-03-06 12:08:42.5952 INFO Returning 31 products.
+2019-03-06 12:09:03.7267 INFO Fetching entity Category for insert
+2019-03-06 12:09:03.7267 INFO Insert entity Category.
+2019-03-06 12:09:03.7267 INFO Category inserted, retuning response.
+2019-03-06 12:09:21.2121 INFO Fetching entity product for insert
+2019-03-06 12:09:21.2121 INFO Insert entity product.
+2019-03-06 12:09:21.2290 INFO Product inserted, retuning response.
+2019-03-06 12:09:43.2735 INFO Fetching all the products from the storage
+2019-03-06 12:09:43.3055 INFO Returning 32 products.
+2019-03-06 12:09:47.7472 INFO Fetching all the products from the storage
+2019-03-06 12:09:47.7742 INFO Returning 32 products.
+2019-03-06 12:14:18.2050 INFO Fetching one Category from the storage
+2019-03-06 12:14:18.4180 INFO Returning Category with ID: 3.
+2019-03-06 12:14:25.1134 INFO Fetching one product from the storage
+2019-03-06 12:14:25.1724 INFO Returning product with ID: 1008.
+2019-03-06 12:16:10.7774 INFO Fetching all the Categorys from the storage
+2019-03-06 12:16:10.7774 INFO Returning 15 Category.
+2019-03-06 12:16:19.6599 INFO Fetching entity Category for delete
+2019-03-06 12:16:19.6599 INFO Deleting Category with ID: 1010.
+2019-03-06 12:16:19.6820 INFO Category with ID: 1010 was deleted.
+2019-03-06 12:16:28.0735 INFO Fetching entity Category for delete
+2019-03-06 12:16:28.0735 INFO Deleting Category with ID: 1009.
+2019-03-06 12:16:28.0905 INFO Category with ID: 1009 was deleted.
+2019-03-06 12:16:32.0636 INFO Fetching one Category from the storage
+2019-03-06 12:16:32.0686 INFO Returning Category with ID: 1008.

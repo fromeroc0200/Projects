@@ -1,0 +1,108 @@
+
+<main class="login-form">
+    <div class="cotainer">
+        <div class="row justify-content-center">
+            <div class="col-xs-12">
+              <div class="alert alert-danger" *ngIf="securityObject && !securityObject.IsAuthenticated">
+                <p>Invalid User Name/Password.</p>
+              </div>
+            </div>
+          </div>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                  <div class="card">
+                    <div class="card-header">Login
+
+                    </div>
+                      <div class="card-body">
+                          <form action="" method="">
+                              <div class="form-group row">
+                                  <label for="userName" class="col-md-4 col-form-label text-md-right">User Name</label>
+                                  <div class="col-md-6">
+                                      <input type="text" id="userName" class="form-control" name="userName" required autofocus required [(ngModel)]="user.userName">
+                                  </div>
+                              </div>
+
+                              <div class="form-group row">
+                                  <label for="password" class="col-md-4 col-form-label text-md-right">Password</label>
+                                  <div class="col-md-6">
+                                      <input type="password" id="password" class="form-control" name="password" required required [(ngModel)]="user.password">
+                                  </div>
+                              </div>
+
+                              <div class="form-group row">
+                                  <div class="col-md-6 offset-md-4">
+                                      <div class="checkbox">
+                                          <label>
+                                              <input type="checkbox" name="remember"> Remember Me
+                                          </label>
+                                      </div>
+                                  </div>
+                              </div>
+
+                              <div class="col-md-6 offset-md-4">
+                                  <button type="button" class="btn btn-primary" (click)="login()">
+                                      Login
+                                  </button>
+                                  <a href="#" class="btn btn-link">
+                                      Forgot Your Password?
+                                  </a>
+                              </div>
+
+                          </form>
+                      </div>
+
+                  </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+
+
+<!--<div class="row">
+    <div class="col-xs-12">
+      <div class="alert alert-danger" *ngIf="securityObject && !securityObject.isAuthenticated">
+        <p>Invalid User Name/Password.</p>
+      </div>
+    </div>
+  </div>-->
+
+  <!-- TEMPORARY CODE TO VIEW SECURITY OBJECT -->
+<!--<div>
+  <form class="form-signin" >
+    <div class="row">
+      <div class="col-xs-12 col-sm-6">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Log in</h3>
+          </div>
+          <div class="panel-body">
+            <div class="form-group">
+              <label for="userName">User Name</label>
+              <div class="input-group">
+                <input id="userName" name="userName" class="form-control" required [(ngModel)]="user.userName" autofocus="autofocus" />
+                <span class="input-group-addon">
+                  <i class="glyphicon glyphicon-envelope"></i>
+                </span>
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="password">Password</label>
+              <div class="input-group">
+                <input id="password" name="password" class="form-control" required [(ngModel)]="user.password" type="password" />
+                <span class="input-group-addon">
+                  <i class="glyphicon glyphicon-lock"></i>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div class="panel-footer">
+            <button type="button" class="btn btn-primary" (click)="login()">Login</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>
+-->

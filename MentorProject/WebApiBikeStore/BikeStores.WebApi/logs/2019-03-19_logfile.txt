@@ -1,0 +1,55 @@
+2019-03-19 11:45:21.8782 INFO Fetching all the products from the storage
+2019-03-19 11:47:07.5520 INFO Fetching all the products from the storage
+2019-03-19 11:48:10.1206 INFO Fetching all the products from the storage
+2019-03-19 12:04:45.0525 INFO Fetching all the products from the storage
+2019-03-19 12:07:15.1639 INFO Fetching all the products from the storage
+2019-03-19 12:08:18.9102 INFO Fetching all the products from the storage
+2019-03-19 12:10:40.3600 INFO Fetching all the products from the storage
+2019-03-19 12:12:51.6216 INFO Fetching all the products from the storage
+2019-03-19 12:14:25.1622 INFO Fetching all the products from the storage
+2019-03-19 12:59:30.4536 INFO Fetching all the products from the storage
+2019-03-19 13:01:36.9760 INFO Fetching all the products from the storage
+2019-03-19 13:02:58.5694 INFO Fetching all the products from the storage
+2019-03-19 13:09:38.2494 INFO Fetching all the products from the storage
+2019-03-19 13:12:32.7218 INFO Fetching all the products from the storage
+2019-03-19 14:04:03.4007 INFO Fetching all the products from the storage
+2019-03-19 14:04:22.8077 INFO Login success.
+2019-03-19 14:06:50.0307 INFO Fetching all the products from the storage
+2019-03-19 14:07:56.7119 INFO Login success.
+2019-03-19 14:07:59.4717 INFO Fetching all the products from the storage
+2019-03-19 14:36:24.7455 INFO Fetching all the products from the storage
+2019-03-19 14:39:38.6312 INFO Fetching all the products from the storage
+2019-03-19 14:39:41.2559 INFO Login success.
+2019-03-19 14:47:42.9860 INFO Fetching all the products from the storage
+2019-03-19 14:47:43.2240 INFO Login success.
+2019-03-19 14:47:52.1894 INFO Fetching all the products from the storage
+2019-03-19 14:47:52.1954 INFO Login success.
+2019-03-19 14:48:01.8790 INFO Fetching all the products from the storage
+2019-03-19 18:28:03.0434 INFO Fetching all the products from the storage
+2019-03-19 18:28:09.3884 INFO Fetching all the products from the storage
+2019-03-19 18:28:09.4203 INFO Login success.
+2019-03-19 18:29:19.8412 INFO Fetching all the products from the storage
+2019-03-19 18:29:38.4719 INFO Fetching all the products from the storage
+2019-03-19 18:29:38.4780 INFO Login success.
+2019-03-19 18:29:56.8956 INFO Fetching all the products from the storage
+2019-03-19 18:29:56.9041 INFO Login success.
+2019-03-19 18:32:11.7967 INFO Fetching all the products from the storage
+2019-03-19 18:32:13.3813 INFO Fetching all the products from the storage
+2019-03-19 18:32:13.4133 INFO Login success.
+2019-03-19 18:32:14.9896 INFO Login success.
+2019-03-19 18:34:00.2323 INFO Fetching all the products from the storage
+2019-03-19 18:34:00.2413 INFO Login success.
+2019-03-19 18:35:17.3392 INFO Fetching all the products from the storage
+2019-03-19 18:35:17.3532 INFO Login success.
+2019-03-19 18:39:47.9825 INFO Fetching all the products from the storage
+2019-03-19 18:39:47.9996 INFO Login success.
+2019-03-19 18:42:25.1495 INFO Fetching all the products from the storage
+2019-03-19 18:42:25.1586 INFO Login success.
+2019-03-19 18:44:19.5815 INFO Fetching all the products from the storage
+2019-03-19 18:44:19.5945 INFO Login success.
+2019-03-19 18:46:40.5502 INFO Fetching all the products from the storage
+2019-03-19 18:46:40.5502 INFO Login success.
+2019-03-19 18:46:54.0707 INFO Fetching all the products from the storage
+2019-03-19 18:46:54.0707 INFO Login success.
+2019-03-19 18:47:16.0598 INFO Fetching all the products from the storage
+2019-03-19 18:47:16.0658 INFO Login success.

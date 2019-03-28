@@ -682,23 +682,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fernangorras\\.nuget\\packages\\": {},
+    "C:\\Users\\f.romerocuellar\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Proyectos\\Net\\ConceptsPrograming\\BestPractices\\BestPractices.csproj",
+      "projectUniqueName": "C:\\Projects\\ConceptsPrograming\\BestPractices\\BestPractices.csproj",
       "projectName": "BestPractices",
-      "projectPath": "C:\\Proyectos\\Net\\ConceptsPrograming\\BestPractices\\BestPractices.csproj",
-      "packagesPath": "C:\\Users\\Fernangorras\\.nuget\\packages\\",
-      "outputPath": "C:\\Proyectos\\Net\\ConceptsPrograming\\BestPractices\\obj\\",
+      "projectPath": "C:\\Projects\\ConceptsPrograming\\BestPractices\\BestPractices.csproj",
+      "packagesPath": "C:\\Users\\f.romerocuellar\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\ConceptsPrograming\\BestPractices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Fernangorras\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\f.romerocuellar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

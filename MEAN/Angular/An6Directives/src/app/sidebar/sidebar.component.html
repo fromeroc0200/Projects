@@ -1,0 +1,29 @@
+<nav>
+  <ul>
+    <li>
+      <a routerLink="" [class.activated]="currentUrl == '/'">
+        <i class="material-icons">loop</i>
+      </a>
+    </li>
+    <li>
+      <a routerLink="ngif" [class.activated]="currentUrl == '/ngif'">
+        <i class="material-icons">verified_user</i>
+      </a>
+    </li>
+    <li>
+      <a routerLink="ngstyle" [class.activated]="currentUrl == '/ngstyle'">
+        <i class="material-icons">style</i>
+      </a>
+    </li>
+    <li>
+      <a routerLink="ngclass" [class.activated]="currentUrl == '/ngclass'">
+        <i class="material-icons">class</i>
+      </a>
+    </li>
+    <li>
+        <a routerLink="ngswitch" [class.activated]="currentUrl == '/ngswitch'">
+          <i class="material-icons">switch_camera</i>
+        </a>
+      </li>
+  </ul>
+</nav>

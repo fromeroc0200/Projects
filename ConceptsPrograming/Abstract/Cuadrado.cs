@@ -10,7 +10,9 @@ namespace Abstract
     {
         public override string Area(decimal baseIn, decimal heightIn)
         {
-            return string.Format("El area del cuadrado es: {0}", baseIn * heightIn);
+            return Message(string.Format("El area del cuadrado es: {0}", baseIn * heightIn));
         }
+
+        
     }
 }

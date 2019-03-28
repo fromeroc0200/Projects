@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeStores.Services", "BikeStores.Services\BikeStores.Services.csproj", "{E8CFD6AC-EE80-4540-BD2A-F071E12922F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeStores.WebApi", "BikeStores.WebApi\BikeStores.WebApi.csproj", "{639FDC0A-C352-4312-A4E5-C2E10BF5FAF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeStores.Data", "BikeStores.Data\BikeStores.Data.csproj", "{F47AA7C9-5D98-48D9-A6C5-77B23154F6E2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F51C240-999E-4D0E-8010-05A28DC66426}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeStores.IntegrationTest", "BikeStores.IntegrationTest\BikeStores.IntegrationTest.csproj", "{881E6AA5-770C-4567-BE66-9F8929D46938}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BikeStores.Data.Repository", "BikeStores.Data.Repository\BikeStores.Data.Repository.csproj", "{64F8659A-BDA2-4ED9-B2AE-5D800FCBDB2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8CFD6AC-EE80-4540-BD2A-F071E12922F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8CFD6AC-EE80-4540-BD2A-F071E12922F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8CFD6AC-EE80-4540-BD2A-F071E12922F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8CFD6AC-EE80-4540-BD2A-F071E12922F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{639FDC0A-C352-4312-A4E5-C2E10BF5FAF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{639FDC0A-C352-4312-A4E5-C2E10BF5FAF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{639FDC0A-C352-4312-A4E5-C2E10BF5FAF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{639FDC0A-C352-4312-A4E5-C2E10BF5FAF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F47AA7C9-5D98-48D9-A6C5-77B23154F6E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F47AA7C9-5D98-48D9-A6C5-77B23154F6E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F47AA7C9-5D98-48D9-A6C5-77B23154F6E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F47AA7C9-5D98-48D9-A6C5-77B23154F6E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881E6AA5-770C-4567-BE66-9F8929D46938}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881E6AA5-770C-4567-BE66-9F8929D46938}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881E6AA5-770C-4567-BE66-9F8929D46938}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881E6AA5-770C-4567-BE66-9F8929D46938}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F8659A-BDA2-4ED9-B2AE-5D800FCBDB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F8659A-BDA2-4ED9-B2AE-5D800FCBDB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F8659A-BDA2-4ED9-B2AE-5D800FCBDB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F8659A-BDA2-4ED9-B2AE-5D800FCBDB2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.2\lib\NET35
+		SolutionGuid = {52CEC6E0-DD87-4296-A490-4A690C3B0E35}
+	EndGlobalSection
+EndGlobal

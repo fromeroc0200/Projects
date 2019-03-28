@@ -1,0 +1,383 @@
+2019-03-04 13:23:41.4414 INFO Fetching all the products from the storage
+2019-03-04 13:23:48.4951 INFO Returning 24 products.
+2019-03-04 13:35:38.1739 INFO Fetching all the Categorys from the storage
+2019-03-04 13:35:53.2073 INFO Returning 10 Category.
+2019-03-04 15:44:56.5676 INFO Fetching all the products from the storage
+2019-03-04 15:45:07.4706 INFO Returning 24 products.
+2019-03-04 15:45:13.7981 INFO Fetching all the products from the storage
+2019-03-04 15:45:13.7981 INFO Fetching all the Categorys from the storage
+2019-03-04 15:45:13.8141 INFO Returning 10 Category.
+2019-03-04 15:45:13.8291 INFO Returning 24 products.
+2019-03-04 16:51:05.0128 INFO Fetching all the products from the storage
+2019-03-04 16:51:05.0128 INFO Fetching all the Categorys from the storage
+2019-03-04 16:51:05.0398 INFO Returning 10 Category.
+2019-03-04 16:51:05.0578 INFO Returning 24 products.
+2019-03-04 17:19:41.2197 INFO Fetching all the products from the storage
+2019-03-04 17:19:41.2439 INFO Returning 24 products.
+2019-03-04 17:19:45.2081 INFO Fetching all the products from the storage
+2019-03-04 17:19:45.2081 INFO Fetching all the Categorys from the storage
+2019-03-04 17:19:45.2161 INFO Returning 10 Category.
+2019-03-04 17:19:45.2371 INFO Returning 24 products.
+2019-03-04 17:19:49.3939 INFO Fetching all the products from the storage
+2019-03-04 17:19:49.4150 INFO Returning 24 products.
+2019-03-04 17:19:51.1373 INFO Fetching all the Categorys from the storage
+2019-03-04 17:19:51.1373 INFO Fetching all the products from the storage
+2019-03-04 17:19:51.1373 INFO Returning 10 Category.
+2019-03-04 17:19:51.1653 INFO Returning 24 products.
+2019-03-04 17:19:53.6952 INFO Fetching all the products from the storage
+2019-03-04 17:19:53.7140 INFO Returning 24 products.
+2019-03-04 17:19:59.2981 INFO Fetching all the Categorys from the storage
+2019-03-04 17:19:59.2981 INFO Fetching all the products from the storage
+2019-03-04 17:19:59.2981 INFO Returning 10 Category.
+2019-03-04 17:19:59.3241 INFO Returning 24 products.
+2019-03-04 17:20:02.2006 INFO Fetching all the products from the storage
+2019-03-04 17:20:02.2219 INFO Returning 24 products.
+2019-03-04 17:20:06.4499 INFO Fetching all the products from the storage
+2019-03-04 17:20:06.4499 INFO Fetching all the Categorys from the storage
+2019-03-04 17:20:06.4499 INFO Returning 10 Category.
+2019-03-04 17:20:06.4769 INFO Returning 24 products.
+2019-03-04 17:28:46.3160 INFO Fetching all the products from the storage
+2019-03-04 17:28:46.3430 INFO Returning 24 products.
+2019-03-04 17:28:47.6620 INFO Fetching all the products from the storage
+2019-03-04 17:28:47.6620 INFO Fetching all the Categorys from the storage
+2019-03-04 17:28:47.6620 INFO Returning 10 Category.
+2019-03-04 17:28:47.6880 INFO Returning 24 products.
+2019-03-04 17:29:16.5993 INFO Fetching all the products from the storage
+2019-03-04 17:29:16.6223 INFO Returning 24 products.
+2019-03-04 17:29:17.9932 INFO Fetching all the Categorys from the storage
+2019-03-04 17:29:18.0012 INFO Returning 10 Category.
+2019-03-04 17:29:17.9932 INFO Fetching all the products from the storage
+2019-03-04 17:29:18.0262 INFO Returning 24 products.
+2019-03-04 17:29:22.9724 INFO Fetching all the products from the storage
+2019-03-04 17:29:22.9931 INFO Returning 24 products.
+2019-03-04 17:29:25.4257 INFO Fetching all the Categorys from the storage
+2019-03-04 17:29:25.4257 INFO Returning 10 Category.
+2019-03-04 17:29:25.4257 INFO Fetching all the products from the storage
+2019-03-04 17:29:25.4554 INFO Returning 24 products.
+2019-03-04 17:29:26.7285 INFO Fetching all the products from the storage
+2019-03-04 17:29:26.7465 INFO Returning 24 products.
+2019-03-04 17:30:36.1157 INFO Fetching all the Categorys from the storage
+2019-03-04 17:30:36.1157 INFO Fetching all the products from the storage
+2019-03-04 17:30:36.1157 INFO Returning 10 Category.
+2019-03-04 17:30:36.1511 INFO Returning 24 products.
+2019-03-04 17:30:44.0996 INFO Fetching all the products from the storage
+2019-03-04 17:30:44.1227 INFO Returning 24 products.
+2019-03-04 17:30:46.5362 INFO Fetching all the Categorys from the storage
+2019-03-04 17:30:46.5362 INFO Fetching all the products from the storage
+2019-03-04 17:30:46.5362 INFO Returning 10 Category.
+2019-03-04 17:30:46.5633 INFO Returning 24 products.
+2019-03-04 17:30:48.2298 INFO Fetching all the products from the storage
+2019-03-04 17:30:48.2515 INFO Returning 24 products.
+2019-03-04 17:30:54.5647 INFO Fetching all the products from the storage
+2019-03-04 17:30:54.5647 INFO Fetching all the Categorys from the storage
+2019-03-04 17:30:54.5787 INFO Returning 10 Category.
+2019-03-04 17:30:54.5787 INFO Returning 24 products.
+2019-03-04 17:30:56.2763 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-04 17:30:57.4582 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-04 17:30:57.6662 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-04 17:30:59.4492 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-04 17:30:59.8820 WARN Model product is not correct. Details: System.Web.Http.ModelBinding.ModelStateDictionary
+2019-03-04 17:33:06.6289 INFO Fetching all the products from the storage
+2019-03-04 17:33:06.6289 INFO Fetching all the Categorys from the storage
+2019-03-04 17:33:06.6419 INFO Returning 10 Category.
+2019-03-04 17:33:06.7479 INFO Returning 24 products.
+2019-03-04 17:33:36.7281 INFO Fetching all the products from the storage
+2019-03-04 17:33:36.7281 INFO Fetching all the Categorys from the storage
+2019-03-04 17:33:36.7441 INFO Returning 10 Category.
+2019-03-04 17:33:36.8561 INFO Returning 24 products.
+2019-03-04 17:34:38.2538 INFO Fetching all the products from the storage
+2019-03-04 17:34:38.2538 INFO Fetching all the Categorys from the storage
+2019-03-04 17:34:38.2708 INFO Returning 10 Category.
+2019-03-04 17:34:38.4148 INFO Returning 24 products.
+2019-03-04 17:36:17.7370 INFO Fetching all the products from the storage
+2019-03-04 17:36:17.7604 INFO Returning 24 products.
+2019-03-04 17:36:19.2004 INFO Fetching all the products from the storage
+2019-03-04 17:36:19.2004 INFO Fetching all the Categorys from the storage
+2019-03-04 17:36:19.2074 INFO Returning 10 Category.
+2019-03-04 17:36:19.2344 INFO Returning 24 products.
+2019-03-04 17:36:29.7408 INFO Fetching all the products from the storage
+2019-03-04 17:36:29.7588 INFO Returning 24 products.
+2019-03-04 17:36:31.4600 INFO Fetching all the products from the storage
+2019-03-04 17:36:31.4600 INFO Fetching all the Categorys from the storage
+2019-03-04 17:36:31.4600 INFO Returning 10 Category.
+2019-03-04 17:36:31.4869 INFO Returning 24 products.
+2019-03-04 17:36:40.8795 INFO Fetching all the products from the storage
+2019-03-04 17:36:40.9033 INFO Returning 24 products.
+2019-03-04 17:36:42.0171 INFO Fetching all the Categorys from the storage
+2019-03-04 17:36:42.0201 INFO Returning 10 Category.
+2019-03-04 17:36:42.0171 INFO Fetching all the products from the storage
+2019-03-04 17:36:42.0591 INFO Returning 24 products.
+2019-03-04 17:38:04.0769 INFO Fetching all the products from the storage
+2019-03-04 17:38:04.8053 INFO Returning 24 products.
+2019-03-04 17:38:07.3194 INFO Fetching all the products from the storage
+2019-03-04 17:38:07.3194 INFO Fetching all the Categorys from the storage
+2019-03-04 17:38:07.3355 INFO Returning 10 Category.
+2019-03-04 17:38:07.3514 INFO Returning 24 products.
+2019-03-04 17:41:51.8009 INFO Fetching all the products from the storage
+2019-03-04 17:41:51.8009 INFO Fetching all the Categorys from the storage
+2019-03-04 17:41:51.8579 INFO Returning 10 Category.
+2019-03-04 17:41:51.9229 INFO Returning 24 products.
+2019-03-04 17:42:10.1908 INFO Fetching all the products from the storage
+2019-03-04 17:42:10.1928 INFO Fetching all the Categorys from the storage
+2019-03-04 17:42:10.1928 INFO Returning 10 Category.
+2019-03-04 17:42:10.3078 INFO Returning 24 products.
+2019-03-04 17:42:22.8321 INFO Fetching all the products from the storage
+2019-03-04 17:42:22.8531 INFO Returning 24 products.
+2019-03-04 17:42:24.3988 INFO Fetching all the products from the storage
+2019-03-04 17:42:24.4218 INFO Returning 24 products.
+2019-03-04 17:44:44.9126 INFO Fetching all the products from the storage
+2019-03-04 17:44:44.9126 INFO Fetching all the Categorys from the storage
+2019-03-04 17:44:45.2516 INFO Returning 10 Category.
+2019-03-04 17:44:45.3406 INFO Returning 24 products.
+2019-03-04 17:44:52.9271 INFO Fetching all the products from the storage
+2019-03-04 17:44:52.9491 INFO Returning 24 products.
+2019-03-04 17:44:53.8406 INFO Fetching all the products from the storage
+2019-03-04 17:44:53.8406 INFO Fetching all the Categorys from the storage
+2019-03-04 17:44:53.8456 INFO Returning 10 Category.
+2019-03-04 17:44:53.8776 INFO Returning 24 products.
+2019-03-04 17:46:31.6348 INFO Fetching all the products from the storage
+2019-03-04 17:46:31.8768 INFO Returning 24 products.
+2019-03-04 17:46:32.6138 INFO Fetching all the products from the storage
+2019-03-04 17:46:32.7448 INFO Returning 24 products.
+2019-03-04 17:47:55.6460 INFO Fetching all the products from the storage
+2019-03-04 17:47:55.8040 INFO Returning 24 products.
+2019-03-04 17:47:56.0570 INFO Fetching all the products from the storage
+2019-03-04 17:47:56.1630 INFO Returning 24 products.
+2019-03-04 17:48:11.3747 INFO Fetching all the products from the storage
+2019-03-04 17:48:11.4797 INFO Returning 24 products.
+2019-03-04 17:48:11.7892 INFO Fetching all the products from the storage
+2019-03-04 17:48:11.8922 INFO Returning 24 products.
+2019-03-04 17:48:40.2760 INFO Fetching all the products from the storage
+2019-03-04 17:48:40.4245 INFO Returning 24 products.
+2019-03-04 17:48:41.4285 INFO Fetching all the products from the storage
+2019-03-04 17:48:41.4995 INFO Returning 24 products.
+2019-03-04 17:49:03.4899 INFO Fetching all the products from the storage
+2019-03-04 17:49:03.5719 INFO Returning 24 products.
+2019-03-04 17:49:04.4689 INFO Fetching all the products from the storage
+2019-03-04 17:49:04.5349 INFO Returning 24 products.
+2019-03-04 17:49:32.4466 INFO Fetching all the products from the storage
+2019-03-04 17:49:32.5726 INFO Returning 24 products.
+2019-03-04 17:49:32.8576 INFO Fetching all the products from the storage
+2019-03-04 17:49:32.9346 INFO Returning 24 products.
+2019-03-04 17:49:53.7135 INFO Fetching all the products from the storage
+2019-03-04 17:49:53.7895 INFO Returning 24 products.
+2019-03-04 17:49:55.1285 INFO Fetching all the products from the storage
+2019-03-04 17:49:55.3090 INFO Returning 24 products.
+2019-03-04 17:57:00.6769 INFO Fetching all the products from the storage
+2019-03-04 17:57:01.4049 INFO Returning 24 products.
+2019-03-04 17:57:03.3087 INFO Fetching all the products from the storage
+2019-03-04 17:57:03.3357 INFO Returning 24 products.
+2019-03-04 17:57:33.1546 INFO Fetching all the products from the storage
+2019-03-04 17:57:33.2916 INFO Returning 24 products.
+2019-03-04 17:57:34.5376 INFO Fetching all the products from the storage
+2019-03-04 17:57:34.5905 INFO Returning 24 products.
+2019-03-04 17:57:34.6865 INFO Fetching all the products from the storage
+2019-03-04 17:57:34.8035 INFO Fetching all the products from the storage
+2019-03-04 17:57:34.8335 INFO Returning 24 products.
+2019-03-04 17:57:34.8605 INFO Returning 24 products.
+2019-03-04 17:57:44.3637 INFO Fetching all the products from the storage
+2019-03-04 17:57:44.6296 INFO Fetching all the products from the storage
+2019-03-04 17:57:44.6886 INFO Fetching all the products from the storage
+2019-03-04 17:57:44.7856 INFO Returning 24 products.
+2019-03-04 17:57:44.7966 INFO Returning 24 products.
+2019-03-04 17:57:44.7966 INFO Returning 24 products.
+2019-03-04 17:57:45.5276 INFO Fetching all the products from the storage
+2019-03-04 17:57:45.5616 INFO Returning 24 products.
+2019-03-04 17:58:07.1002 INFO Fetching all the products from the storage
+2019-03-04 17:58:07.2932 INFO Fetching all the Categorys from the storage
+2019-03-04 17:58:07.4152 INFO Returning 10 Category.
+2019-03-04 17:58:07.4712 INFO Fetching all the products from the storage
+2019-03-04 17:58:07.4832 INFO Fetching all the Categorys from the storage
+2019-03-04 17:58:07.5472 INFO Returning 10 Category.
+2019-03-04 17:58:07.5892 INFO Returning 24 products.
+2019-03-04 17:58:07.5942 INFO Fetching all the Categorys from the storage
+2019-03-04 17:58:07.6122 INFO Returning 10 Category.
+2019-03-04 17:58:07.6392 INFO Fetching all the products from the storage
+2019-03-04 17:58:07.6392 INFO Fetching all the Categorys from the storage
+2019-03-04 17:58:07.6392 INFO Returning 10 Category.
+2019-03-04 17:58:07.6392 INFO Returning 24 products.
+2019-03-04 17:58:07.6772 INFO Fetching all the products from the storage
+2019-03-04 17:58:07.7012 INFO Returning 24 products.
+2019-03-04 17:58:07.7022 INFO Returning 24 products.
+2019-03-04 17:58:11.6365 INFO Fetching all the products from the storage
+2019-03-04 17:58:11.6586 INFO Returning 24 products.
+2019-03-04 17:58:12.7631 INFO Fetching all the products from the storage
+2019-03-04 17:58:12.7641 INFO Fetching all the Categorys from the storage
+2019-03-04 17:58:12.7641 INFO Returning 10 Category.
+2019-03-04 17:58:12.7931 INFO Returning 24 products.
+2019-03-04 17:58:17.3690 INFO Fetching all the products from the storage
+2019-03-04 17:58:17.3857 INFO Returning 24 products.
+2019-03-04 17:58:54.9321 INFO Fetching all the products from the storage
+2019-03-04 17:58:55.3421 INFO Fetching all the products from the storage
+2019-03-04 17:58:55.4301 INFO Returning 24 products.
+2019-03-04 17:58:55.4641 INFO Returning 24 products.
+2019-03-04 17:58:55.6280 INFO Fetching all the products from the storage
+2019-03-04 17:58:55.6280 INFO Fetching all the products from the storage
+2019-03-04 17:58:55.6840 INFO Returning 24 products.
+2019-03-04 17:58:55.6840 INFO Returning 24 products.
+2019-03-04 17:58:57.0040 INFO Fetching all the products from the storage
+2019-03-04 17:58:57.0190 INFO Returning 24 products.
+2019-03-04 17:59:31.6841 INFO Fetching all the products from the storage
+2019-03-04 17:59:31.7231 INFO Returning 24 products.
+2019-03-04 18:02:14.9266 INFO Fetching all the products from the storage
+2019-03-04 18:02:15.3920 INFO Returning 24 products.
+2019-03-04 18:02:32.3799 INFO Fetching all the products from the storage
+2019-03-04 18:02:32.4009 INFO Returning 24 products.
+2019-03-04 18:02:33.4816 INFO Fetching all the products from the storage
+2019-03-04 18:02:33.5046 INFO Returning 24 products.
+2019-03-04 18:02:37.7693 INFO Fetching all the products from the storage
+2019-03-04 18:02:37.7914 INFO Returning 24 products.
+2019-03-04 18:02:38.5897 INFO Fetching all the products from the storage
+2019-03-04 18:02:38.6117 INFO Returning 24 products.
+2019-03-04 18:03:59.3354 INFO Fetching one product from the storage
+2019-03-04 18:04:00.9352 INFO Returning product with ID: 3.
+2019-03-04 18:04:11.4778 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:11.4778 INFO Returning 10 Category.
+2019-03-04 18:04:12.6948 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:12.6948 INFO Returning 10 Category.
+2019-03-04 18:04:13.4346 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:13.4376 INFO Returning 10 Category.
+2019-03-04 18:04:18.4918 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:18.4918 INFO Returning 10 Category.
+2019-03-04 18:04:19.1953 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:19.1953 INFO Returning 10 Category.
+2019-03-04 18:04:19.7915 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:19.7915 INFO Returning 10 Category.
+2019-03-04 18:04:25.0903 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:25.0933 INFO Returning 10 Category.
+2019-03-04 18:04:25.9078 INFO Fetching all the Categorys from the storage
+2019-03-04 18:04:25.9078 INFO Returning 10 Category.
+2019-03-04 18:06:05.6157 INFO Fetching all the Categorys from the storage
+2019-03-04 18:06:07.4452 INFO Fetching one product from the storage
+2019-03-04 18:06:08.2524 INFO Returning 10 Category.
+2019-03-04 18:06:08.2878 INFO Returning product with ID: 2.
+2019-03-04 18:06:31.8274 INFO Fetching all the Categorys from the storage
+2019-03-04 18:06:31.8564 INFO Returning 10 Category.
+2019-03-04 18:06:33.5154 INFO Fetching one product from the storage
+2019-03-04 18:06:33.5154 INFO Fetching all the Categorys from the storage
+2019-03-04 18:06:33.5154 INFO Fetching all the Categorys from the storage
+2019-03-04 18:06:33.5154 INFO Fetching all the Categorys from the storage
+2019-03-04 18:06:47.7513 INFO Returning 10 Category.
+2019-03-04 18:06:47.7513 INFO Fetching one product from the storage
+2019-03-04 18:06:47.7513 INFO Fetching one product from the storage
+2019-03-04 18:06:47.7513 INFO Returning 10 Category.
+2019-03-04 18:06:47.7614 INFO Returning product with ID: 2.
+2019-03-04 18:06:47.7614 INFO Returning product with ID: 2.
+2019-03-04 18:06:47.7614 INFO Returning product with ID: 2.
+2019-03-04 18:06:47.7513 INFO Returning 10 Category.
+2019-03-04 18:06:47.7513 INFO Fetching one product from the storage
+2019-03-04 18:06:47.8073 INFO Returning product with ID: 2.
+2019-03-04 18:07:05.2363 INFO Fetching all the products from the storage
+2019-03-04 18:07:05.2573 INFO Returning 24 products.
+2019-03-04 18:07:06.3522 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:06.3552 INFO Returning 10 Category.
+2019-03-04 18:07:06.3522 INFO Fetching one product from the storage
+2019-03-04 18:07:06.3552 INFO Returning product with ID: 3.
+2019-03-04 18:07:07.9153 INFO Fetching all the products from the storage
+2019-03-04 18:07:07.9323 INFO Returning 24 products.
+2019-03-04 18:07:13.7973 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:13.7973 INFO Fetching one product from the storage
+2019-03-04 18:07:13.7973 INFO Returning 10 Category.
+2019-03-04 18:07:13.8083 INFO Returning product with ID: 2.
+2019-03-04 18:07:15.3428 INFO Fetching all the products from the storage
+2019-03-04 18:07:15.3638 INFO Returning 24 products.
+2019-03-04 18:07:18.6121 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:18.6121 INFO Fetching one product from the storage
+2019-03-04 18:07:18.6121 INFO Returning 10 Category.
+2019-03-04 18:07:18.6191 INFO Returning product with ID: 20.
+2019-03-04 18:07:23.0964 INFO Fetching all the products from the storage
+2019-03-04 18:07:23.1168 INFO Returning 24 products.
+2019-03-04 18:07:25.6493 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:25.6493 INFO Fetching one product from the storage
+2019-03-04 18:07:25.6493 INFO Returning 10 Category.
+2019-03-04 18:07:25.6493 INFO Returning product with ID: 17.
+2019-03-04 18:07:29.5297 INFO Fetching all the products from the storage
+2019-03-04 18:07:29.5467 INFO Returning 24 products.
+2019-03-04 18:07:31.9839 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:31.9839 INFO Returning 10 Category.
+2019-03-04 18:07:31.9949 INFO Fetching one product from the storage
+2019-03-04 18:07:31.9949 INFO Returning product with ID: 23.
+2019-03-04 18:07:37.8816 INFO Fetching all the products from the storage
+2019-03-04 18:07:37.9026 INFO Returning 24 products.
+2019-03-04 18:07:44.6718 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:44.6718 INFO Returning 10 Category.
+2019-03-04 18:07:44.6718 INFO Fetching one product from the storage
+2019-03-04 18:07:44.6808 INFO Returning product with ID: 9.
+2019-03-04 18:07:46.4864 INFO Fetching all the products from the storage
+2019-03-04 18:07:46.5064 INFO Returning 24 products.
+2019-03-04 18:07:47.8677 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:47.8677 INFO Fetching one product from the storage
+2019-03-04 18:07:47.8677 INFO Returning 10 Category.
+2019-03-04 18:07:47.8677 INFO Returning product with ID: 23.
+2019-03-04 18:07:48.9424 INFO Fetching all the products from the storage
+2019-03-04 18:07:48.9584 INFO Returning 24 products.
+2019-03-04 18:07:51.0222 INFO Fetching one product from the storage
+2019-03-04 18:07:51.0282 INFO Returning product with ID: 2.
+2019-03-04 18:07:51.0282 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:51.0282 INFO Returning 10 Category.
+2019-03-04 18:07:53.0419 INFO Fetching all the products from the storage
+2019-03-04 18:07:53.0703 INFO Returning 24 products.
+2019-03-04 18:07:57.9041 INFO Fetching all the Categorys from the storage
+2019-03-04 18:07:57.9041 INFO Returning 10 Category.
+2019-03-04 18:07:57.9150 INFO Fetching one product from the storage
+2019-03-04 18:07:57.9150 INFO Returning product with ID: 2.
+2019-03-04 18:07:59.9123 INFO Fetching all the products from the storage
+2019-03-04 18:07:59.9308 INFO Returning 24 products.
+2019-03-04 18:08:02.3218 INFO Fetching one product from the storage
+2019-03-04 18:08:02.3218 INFO Returning product with ID: 23.
+2019-03-04 18:08:02.3218 INFO Fetching all the Categorys from the storage
+2019-03-04 18:08:02.3218 INFO Returning 10 Category.
+2019-03-04 18:08:05.1569 INFO Fetching all the products from the storage
+2019-03-04 18:08:05.1709 INFO Returning 24 products.
+2019-03-04 18:08:06.5689 INFO Fetching all the Categorys from the storage
+2019-03-04 18:08:06.5699 INFO Returning 10 Category.
+2019-03-04 18:08:06.5699 INFO Fetching one product from the storage
+2019-03-04 18:08:06.5699 INFO Returning product with ID: 25.
+2019-03-04 18:08:07.6303 INFO Fetching all the products from the storage
+2019-03-04 18:08:07.6473 INFO Returning 24 products.
+2019-03-04 18:08:32.5692 INFO Fetching all the Categorys from the storage
+2019-03-04 18:08:32.5692 INFO Returning 10 Category.
+2019-03-04 18:08:33.2800 INFO Fetching all the Categorys from the storage
+2019-03-04 18:08:33.2800 INFO Returning 10 Category.
+2019-03-04 18:08:33.8963 INFO Fetching all the Categorys from the storage
+2019-03-04 18:08:33.8993 INFO Returning 10 Category.
+2019-03-04 18:08:34.2681 INFO Fetching all the Categorys from the storage
+2019-03-04 18:08:34.2721 INFO Returning 10 Category.
+2019-03-04 18:08:35.6506 INFO Fetching all the Categorys from the storage
+2019-03-04 18:08:35.6506 INFO Returning 10 Category.
+2019-03-04 18:15:29.7345 INFO Fetching all the products from the storage
+2019-03-04 18:15:29.9685 INFO Returning 24 products.
+2019-03-04 18:15:40.2268 INFO Fetching all the Categorys from the storage
+2019-03-04 18:15:40.2328 INFO Returning 10 Category.
+2019-03-04 18:15:41.7180 INFO Fetching all the Categorys from the storage
+2019-03-04 18:15:41.7180 INFO Returning 10 Category.
+2019-03-04 18:16:29.2756 INFO Fetching all the Categorys from the storage
+2019-03-04 18:16:29.4536 INFO Returning 10 Category.
+2019-03-04 18:16:36.0198 INFO Fetching one product from the storage
+2019-03-04 18:16:36.1227 INFO Returning product with ID: 3.
+2019-03-04 18:19:48.7390 INFO Fetching one product from the storage
+2019-03-04 18:19:48.9909 INFO Returning product with ID: 3.
+2019-03-04 18:19:54.6267 INFO Fetching all the Categorys from the storage
+2019-03-04 18:19:54.6267 INFO Returning 10 Category.
+2019-03-04 18:19:55.7510 INFO Fetching all the Categorys from the storage
+2019-03-04 18:19:55.7510 INFO Returning 10 Category.
+2019-03-04 18:21:09.3517 INFO Fetching all the Categorys from the storage
+2019-03-04 18:21:09.5118 INFO Returning 10 Category.
+2019-03-04 18:21:13.8872 INFO Fetching one product from the storage
+2019-03-04 18:21:14.0032 INFO Returning product with ID: 3.
+2019-03-04 18:21:14.7949 INFO Fetching one product from the storage
+2019-03-04 18:21:14.7999 INFO Returning product with ID: 3.
+2019-03-04 18:21:17.6221 INFO Fetching one product from the storage
+2019-03-04 18:21:17.6291 INFO Returning product with ID: 2.
+2019-03-04 18:21:24.3393 INFO Fetching all the products from the storage
+2019-03-04 18:21:24.3663 INFO Returning 24 products.
+2019-03-04 18:25:22.7208 INFO Fetching all the Categorys from the storage
+2019-03-04 18:25:22.8798 INFO Returning 10 Category.
+2019-03-04 18:25:40.9193 INFO Fetching all the Categorys from the storage
+2019-03-04 18:25:41.3263 INFO Returning 10 Category.
+2019-03-04 18:26:09.8806 INFO Fetching all the products from the storage
+2019-03-04 18:26:10.1096 INFO Returning 24 products.
+2019-03-04 18:26:13.7084 INFO Fetching all the Categorys from the storage
+2019-03-04 18:26:13.7084 INFO Returning 10 Category.
+2019-03-04 18:26:14.4434 INFO Fetching all the Categorys from the storage
+2019-03-04 18:26:14.4434 INFO Returning 10 Category.

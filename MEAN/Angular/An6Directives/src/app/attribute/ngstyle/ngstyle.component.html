@@ -1,0 +1,6 @@
+<h1>NgStyle Attribute Directive</h1>
+<ul>
+  <ng-container *ngFor="let usr of users$">
+    <li [ngStyle]="{color: (usr.active) ? 'red':'gray'}">{{usr.name}}</li>
+  </ng-container>
+</ul>

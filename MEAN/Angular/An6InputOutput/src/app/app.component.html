@@ -1,0 +1,8 @@
+<h2>PARENT COMPONENT</h2>
+<p><strong>Parent Data: </strong>{{pData}}</p>
+
+<!--Muestra el valor del child component despues de recibir el evento click-->
+<p><strong>Child Data: </strong>{{pcData}}</p>
+<!--El valor pData se esta pasando a app-child en el parametro cpData-->
+<app-child [cpData] = "pData" (msgEvent) = "receivedValue($event)"></app-child>
+<router-outlet></router-outlet>

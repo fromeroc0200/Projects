@@ -1,0 +1,51 @@
+<!--  <div class="row">
+    <div class="col-xs-12">
+      <label>{{securityObject | json}}</label>
+    </div>
+  </div>-->
+  <div class="row">
+    <div class="col-xs-12">
+      <h1>Product List</h1>
+    </div>
+  </div>
+
+  <div class="row" *ngIf="products && products.length">
+    <div class="col-xs-12">
+      <button class="btn btn-primary" (click)="addProduct()">
+        Add New Product
+      </button>
+    </div>
+  </div>
+  <br/>
+  <div *ngIf="products && products.length">
+    <table class="table table-bordered table-striped table-condensed">
+      <thead>
+        <tr>
+          <th>Edit</th>
+          <th>Product Name</th>
+          <th>Model Year</th>
+          <th class="text-right">Price</th>
+          <th>Brand</th>
+          <th>Delete</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let product of products">
+          <td>
+            <a href="#" class="btn btn-primary" [routerLink]="['/productDetail', product.product_id]">
+              <i class="material-icons md-18">edit</i>
+            </a>
+          </td>
+          <td>{{product.product_name}}</td>
+          <td>{{product.model_year}}</td>
+          <td class="text-right">{{product.list_price | currency}}</td>
+          <td>{{product.brands.brand_name | lowercase}}</td>
+          <td>
+            <button (click)="deleteProduct(product.product_id)" class="btn btn-danger">
+                <i class="material-icons md-18">delete</i>
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

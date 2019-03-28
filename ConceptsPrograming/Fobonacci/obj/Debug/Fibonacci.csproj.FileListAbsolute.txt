@@ -1,0 +1,6 @@
+C:\Projects\ConceptsPrograming\Fobonacci\bin\Debug\Fobonacci.exe.config
+C:\Projects\ConceptsPrograming\Fobonacci\bin\Debug\Fobonacci.exe
+C:\Projects\ConceptsPrograming\Fobonacci\bin\Debug\Fobonacci.pdb
+C:\Projects\ConceptsPrograming\Fobonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Projects\ConceptsPrograming\Fobonacci\obj\Debug\Fobonacci.exe
+C:\Projects\ConceptsPrograming\Fobonacci\obj\Debug\Fobonacci.pdb

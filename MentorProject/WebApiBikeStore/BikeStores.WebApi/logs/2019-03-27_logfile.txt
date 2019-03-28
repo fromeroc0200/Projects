@@ -1,0 +1,120 @@
+2019-03-27 14:20:28.3659 INFO Fetching all the products from the storage
+2019-03-27 14:20:28.3949 ERROR Something went wrong: System.NotImplementedException: The method or operation is not implemented.
+   at BikeStores.Services.UnityOfWork.UnityOfWork.get_Security() in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\UnityOfWork\UnityOfWork.cs:line 27
+   at BikeStores.WebApi.Controllers.SecurityController.Login(UserModel user) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\SecurityController.cs:line 42
+2019-03-27 14:20:51.0307 INFO Fetching all the products from the storage
+2019-03-27 14:20:51.0307 ERROR Something went wrong: System.NotImplementedException: The method or operation is not implemented.
+   at BikeStores.Services.UnityOfWork.UnityOfWork.get_Security() in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\UnityOfWork\UnityOfWork.cs:line 27
+   at BikeStores.WebApi.Controllers.SecurityController.Login(UserModel user) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\SecurityController.cs:line 42
+2019-03-27 14:20:52.5047 INFO Fetching all the products from the storage
+2019-03-27 14:20:52.5047 ERROR Something went wrong: System.NotImplementedException: The method or operation is not implemented.
+   at BikeStores.Services.UnityOfWork.UnityOfWork.get_Security() in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\UnityOfWork\UnityOfWork.cs:line 27
+   at BikeStores.WebApi.Controllers.SecurityController.Login(UserModel user) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\SecurityController.cs:line 42
+2019-03-27 14:21:14.2446 INFO Fetching all the products from the storage
+2019-03-27 14:21:18.7025 ERROR Something went wrong: System.NotImplementedException: The method or operation is not implemented.
+   at BikeStores.Services.UnityOfWork.UnityOfWork.get_Security() in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\UnityOfWork\UnityOfWork.cs:line 27
+   at BikeStores.WebApi.Controllers.SecurityController.Login(UserModel user) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\SecurityController.cs:line 42
+2019-03-27 14:21:22.2384 INFO Fetching all the products from the storage
+2019-03-27 14:21:30.1973 ERROR Something went wrong: System.NotImplementedException: The method or operation is not implemented.
+   at BikeStores.Services.UnityOfWork.UnityOfWork.get_Security() in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\UnityOfWork\UnityOfWork.cs:line 27
+   at BikeStores.WebApi.Controllers.SecurityController.Login(UserModel user) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\SecurityController.cs:line 42
+2019-03-27 14:21:32.3151 INFO Fetching all the products from the storage
+2019-03-27 14:22:40.3304 INFO Fetching all the products from the storage
+2019-03-27 14:23:20.9431 ERROR Something went wrong: System.NotImplementedException: The method or operation is not implemented.
+   at BikeStores.Services.UnityOfWork.UnityOfWork.get_Security() in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\UnityOfWork\UnityOfWork.cs:line 27
+   at BikeStores.WebApi.Controllers.SecurityController.Login(UserModel user) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\SecurityController.cs:line 42
+2019-03-27 14:23:24.2747 INFO Fetching all the products from the storage
+2019-03-27 14:24:36.8491 INFO Fetching all the products from the storage
+2019-03-27 14:25:46.6552 INFO Fetching all the products from the storage
+2019-03-27 14:33:41.2992 INFO Fetching all the products from the storage
+2019-03-27 14:36:19.7708 INFO Fetching all the products from the storage
+2019-03-27 14:42:18.5179 INFO Fetching all the products from the storage
+2019-03-27 14:45:30.6026 INFO Fetching all the products from the storage
+2019-03-27 14:45:42.9444 INFO Login success.
+2019-03-27 14:45:50.5722 INFO Fetching all the products from the storage
+2019-03-27 14:45:50.6602 INFO Returning 27 products.
+2019-03-27 14:45:57.1460 INFO Fetching all the Categorys from the storage
+2019-03-27 14:45:57.1460 INFO Returning 21 Category.
+2019-03-27 14:45:59.0495 INFO Fetching entity Category for insert
+2019-03-27 14:45:59.0786 WARN Category is not correct.
+2019-03-27 14:46:06.8611 INFO Fetching entity Category for insert
+2019-03-27 14:46:06.8821 WARN Category is not correct.
+2019-03-27 14:46:29.2187 INFO Fetching entity Category for insert
+2019-03-27 14:46:29.2434 WARN Category is not correct.
+2019-03-27 14:46:42.0365 INFO Fetching entity Category for insert
+2019-03-27 14:46:42.0665 WARN Category is not correct.
+2019-03-27 14:47:54.6212 INFO Fetching entity Category for insert
+2019-03-27 14:47:54.7723 WARN Category is not correct.
+2019-03-27 14:48:05.7357 INFO Fetching all the products from the storage
+2019-03-27 14:48:05.7627 INFO Returning 27 products.
+2019-03-27 14:48:23.8497 INFO Fetching all the Categorys from the storage
+2019-03-27 14:48:32.0205 INFO Fetching all the Categorys from the storage
+2019-03-27 14:48:32.0205 INFO Returning 21 Category.
+2019-03-27 14:48:32.0205 INFO Returning 12 Brand.
+2019-03-27 14:51:33.2618 INFO Fetching all the products from the storage
+2019-03-27 14:51:33.5868 INFO Returning 27 products.
+2019-03-27 14:51:40.1760 INFO Fetching all the Categorys from the storage
+2019-03-27 14:51:41.9652 INFO Returning 21 Category.
+2019-03-27 14:51:54.6387 INFO Fetching entity Category for insert
+2019-03-27 14:51:54.6631 WARN Category is not correct.
+2019-03-27 14:54:20.6011 INFO Fetching entity Category for insert
+2019-03-27 14:54:20.6221 WARN Category is not correct.
+2019-03-27 14:56:59.6498 INFO Fetching all the products from the storage
+2019-03-27 14:57:07.8228 INFO Login success.
+2019-03-27 14:57:09.9926 INFO Fetching all the products from the storage
+2019-03-27 14:57:10.0171 INFO Returning 27 products.
+2019-03-27 14:57:18.0979 INFO Fetching all the Categorys from the storage
+2019-03-27 14:57:18.0979 INFO Returning 21 Category.
+2019-03-27 14:57:22.4469 INFO Fetching entity Category for insert
+2019-03-27 14:57:22.4659 WARN Category is not correct.
+2019-03-27 14:57:48.1147 INFO Fetching all the products from the storage
+2019-03-27 14:57:48.1147 INFO Login success.
+2019-03-27 14:57:54.9416 INFO Fetching all the products from the storage
+2019-03-27 14:57:54.9643 INFO Returning 27 products.
+2019-03-27 14:57:56.7571 INFO Fetching all the Categorys from the storage
+2019-03-27 14:57:56.7571 INFO Returning 21 Category.
+2019-03-27 14:57:58.3469 INFO Fetching entity Category for insert
+2019-03-27 14:57:58.3649 WARN Category is not correct.
+2019-03-27 15:04:36.1414 INFO Fetching all the products from the storage
+2019-03-27 15:04:36.1414 INFO Login success.
+2019-03-27 15:04:36.2344 INFO Fetching all the Categorys from the storage
+2019-03-27 15:04:36.2344 INFO Returning 21 Category.
+2019-03-27 15:04:39.0391 INFO Fetching entity Category for insert
+2019-03-27 15:04:39.0601 WARN Category is not correct.
+2019-03-27 15:04:51.7919 INFO Fetching entity Category for insert
+2019-03-27 15:04:51.7919 INFO Insert entity Category.
+2019-03-27 15:04:51.8030 INFO Category inserted, retuning response.
+2019-03-27 15:04:51.8469 INFO Fetching all the Categorys from the storage
+2019-03-27 15:04:51.8469 INFO Returning 21 Category.
+2019-03-27 15:06:00.6828 INFO Fetching entity Category for insert
+2019-03-27 15:06:00.7027 INFO Insert entity Category.
+2019-03-27 15:06:00.9475 INFO Category inserted, retuning response.
+2019-03-27 15:06:00.9995 INFO Fetching all the Categorys from the storage
+2019-03-27 15:06:01.0385 INFO Returning 22 Category.
+2019-03-27 15:06:08.5644 INFO Fetching entity Category for delete
+2019-03-27 15:06:08.6231 INFO Deleting Category with ID: 1023.
+2019-03-27 15:06:08.6271 INFO Category with ID: 1023 was deleted.
+2019-03-27 15:06:20.4933 INFO Fetching all the products from the storage
+2019-03-27 15:06:20.5393 INFO Login success.
+2019-03-27 15:06:20.6183 INFO Fetching all the Categorys from the storage
+2019-03-27 15:06:20.6183 INFO Returning 22 Category.
+2019-03-27 15:07:33.8494 INFO Fetching entity Category for delete
+2019-03-27 15:07:34.1045 INFO Deleting Category with ID: 1023.
+2019-03-27 15:07:34.1402 INFO Category with ID: 1023 was deleted.
+2019-03-27 15:07:36.7482 INFO Fetching entity Category for delete
+2019-03-27 15:07:36.7702 INFO Deleting Category with ID: 1023.
+2019-03-27 15:07:36.8415 ERROR Something went wrong: System.ArgumentNullException: Value cannot be null.
+Parameter name: entity
+   at System.Data.Entity.Utilities.Check.NotNull[T](T value, String parameterName)
+   at System.Data.Entity.DbSet`1.Remove(TEntity entity)
+   at BikeStores.Data.Repository.Repository`1.Remove(TEntity entity) in C:\MentorProjects\WebApiBikeStore\BikeStores.Data.Repository\Repository.cs:line 59
+   at BikeStores.WebApi.Controllers.CategoriesController.Delete(Int32 categoryId) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\CategoriesController.cs:line 215
+2019-03-27 15:07:45.1518 INFO Fetching all the products from the storage
+2019-03-27 15:07:45.2143 INFO Returning 27 products.
+2019-03-27 15:07:45.8662 INFO Fetching all the Categorys from the storage
+2019-03-27 15:07:45.8662 INFO Returning 21 Category.
+2019-03-27 15:07:49.6894 INFO Fetching entity Category for delete
+2019-03-27 15:07:49.6894 INFO Deleting Category with ID: 1019.
+2019-03-27 15:07:49.7044 INFO Category with ID: 1019 was deleted.
+2019-03-27 15:07:57.3485 INFO Fetching all the products from the storage
+2019-03-27 15:07:57.3705 INFO Returning 27 products.

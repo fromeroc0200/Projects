@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BikeStoresModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="brands">
+    <Key>
+      <PropertyRef Name="brand_id" />
+    </Key>
+    <Property Name="brand_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="brand_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK__products__brand___3C69FB99" FromRole="brands" ToRole="products" />
+  </EntityType>
+  <EntityType Name="categories">
+    <Key>
+      <PropertyRef Name="category_id" />
+    </Key>
+    <Property Name="category_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="category_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="products" Relationship="Self.FK__products__catego__3B75D760" FromRole="categories" ToRole="products" />
+  </EntityType>
+  <EntityType Name="products">
+    <Key>
+      <PropertyRef Name="product_id" />
+    </Key>
+    <Property Name="product_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="product_name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="brand_id" Type="Int32" Nullable="false" />
+    <Property Name="category_id" Type="Int32" Nullable="false" />
+    <Property Name="model_year" Type="Int16" Nullable="false" />
+    <Property Name="list_price" Type="Decimal" Precision="10" Scale="2" Nullable="false" />
+    <NavigationProperty Name="brands" Relationship="Self.FK__products__brand___3C69FB99" FromRole="products" ToRole="brands" />
+    <NavigationProperty Name="categories" Relationship="Self.FK__products__catego__3B75D760" FromRole="products" ToRole="categories" />
+    <NavigationProperty Name="stocks" Relationship="Self.FK__stocks__product___52593CB8" FromRole="products" ToRole="stocks" />
+  </EntityType>
+  <EntityType Name="stocks">
+    <Key>
+      <PropertyRef Name="store_id" />
+      <PropertyRef Name="product_id" />
+    </Key>
+    <Property Name="store_id" Type="Int32" Nullable="false" />
+    <Property Name="product_id" Type="Int32" Nullable="false" />
+    <Property Name="quantity" Type="Int32" />
+    <NavigationProperty Name="products" Relationship="Self.FK__stocks__product___52593CB8" FromRole="stocks" ToRole="products" />
+  </EntityType>
+  <Association Name="FK__products__brand___3C69FB99">
+    <End Role="brands" Type="Self.brands" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="products" Type="Self.products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="brands">
+        <PropertyRef Name="brand_id" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="brand_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__products__catego__3B75D760">
+    <End Role="categories" Type="Self.categories" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="products" Type="Self.products" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="categories">
+        <PropertyRef Name="category_id" />
+      </Principal>
+      <Dependent Role="products">
+        <PropertyRef Name="category_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__stocks__product___52593CB8">
+    <End Role="products" Type="Self.products" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="stocks" Type="Self.stocks" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="products">
+        <PropertyRef Name="product_id" />
+      </Principal>
+      <Dependent Role="stocks">
+        <PropertyRef Name="product_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BikeStoresEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="brands" EntityType="Self.brands" />
+    <EntitySet Name="categories" EntityType="Self.categories" />
+    <EntitySet Name="products" EntityType="Self.products" />
+    <EntitySet Name="stocks" EntityType="Self.stocks" />
+    <AssociationSet Name="FK__products__brand___3C69FB99" Association="Self.FK__products__brand___3C69FB99">
+      <End Role="brands" EntitySet="brands" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__products__catego__3B75D760" Association="Self.FK__products__catego__3B75D760">
+      <End Role="categories" EntitySet="categories" />
+      <End Role="products" EntitySet="products" />
+    </AssociationSet>
+    <AssociationSet Name="FK__stocks__product___52593CB8" Association="Self.FK__stocks__product___52593CB8">
+      <End Role="products" EntitySet="products" />
+      <End Role="stocks" EntitySet="stocks" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

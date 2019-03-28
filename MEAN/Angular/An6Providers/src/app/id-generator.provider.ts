@@ -1,3 +1,4 @@
+/*--Se utiliza esta clase para ser inyectada de manera de singleton en el apartado de  */
 import { InjectionToken } from '@angular/core';
 
 let NB_INSTANCES = 0;

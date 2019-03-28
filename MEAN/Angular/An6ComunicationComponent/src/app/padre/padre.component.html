@@ -1,0 +1,21 @@
+
+
+<!---- PROPERTY BINGING ------------
+
+  ---- TypeScript <= HTML --------->
+
+<!--el valor inicializado en este caso de ngOnInit que esta el componente padre-->
+<!--El cual se esta mandando al componente hijo-->
+<app-hijo [nombre]= "nombreHijo"
+
+
+
+(gritar)="estaGritandoHijo($event)"></app-hijo>
+<!--EVENT BINDING ---- TypeScript <= HTML -->
+<!--Espera un evento de parte del usuario-->
+<!--Se dispara el evento llamado gritar que esta implementado en el componente hijo-->
+
+
+<hr>
+<!--Se muestra el resultado del metodo estaGritandoHijo-->
+<div>{{textoHijo}}</div>

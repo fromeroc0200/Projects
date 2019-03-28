@@ -1,0 +1,108 @@
+2019-03-01 14:31:45.7462 INFO Fetching all the products from the storage
+2019-03-01 14:33:34.4841 INFO Fetching all the products from the storage
+2019-03-01 14:33:39.5433 INFO Returning 25 products.
+2019-03-01 14:36:34.8408 INFO Fetching all the products from the storage
+2019-03-01 14:36:34.8688 INFO Returning 25 products.
+2019-03-01 14:48:10.8231 INFO Fetching all the products from the storage
+2019-03-01 14:48:10.8491 INFO Returning 25 products.
+2019-03-01 15:06:12.0503 INFO Fetching all the products from the storage
+2019-03-01 15:06:12.0763 INFO Returning 25 products.
+2019-03-01 15:07:43.4056 INFO Fetching all the products from the storage
+2019-03-01 15:07:43.4326 INFO Returning 25 products.
+2019-03-01 15:08:17.3598 INFO Fetching all the products from the storage
+2019-03-01 15:08:17.3797 INFO Returning 25 products.
+2019-03-01 15:09:29.5080 INFO Fetching all the products from the storage
+2019-03-01 15:09:29.5310 INFO Returning 25 products.
+2019-03-01 15:10:28.4815 INFO Fetching all the products from the storage
+2019-03-01 15:10:28.5045 INFO Returning 25 products.
+2019-03-01 15:11:02.8003 INFO Fetching all the products from the storage
+2019-03-01 15:11:02.8233 INFO Returning 25 products.
+2019-03-01 15:11:24.1385 INFO Fetching all the products from the storage
+2019-03-01 15:11:24.2035 INFO Returning 25 products.
+2019-03-01 15:12:09.7379 INFO Fetching all the products from the storage
+2019-03-01 15:12:09.7629 INFO Returning 25 products.
+2019-03-01 15:12:14.0993 INFO Fetching all the products from the storage
+2019-03-01 15:12:14.1213 INFO Returning 25 products.
+2019-03-01 15:12:26.9231 INFO Fetching all the products from the storage
+2019-03-01 15:12:26.9441 INFO Returning 25 products.
+2019-03-01 15:12:34.2314 INFO Fetching all the products from the storage
+2019-03-01 15:12:34.2594 INFO Returning 25 products.
+2019-03-01 17:31:10.1442 INFO Fetching all the products from the storage
+2019-03-01 17:31:10.1772 INFO Returning 25 products.
+2019-03-01 17:31:18.6726 INFO Fetching entity product for delete
+2019-03-01 17:31:18.7622 INFO Deleting product with ID: 1005.
+2019-03-01 17:31:18.8024 INFO Product with ID: 1005 was deleted.
+2019-03-01 17:31:23.5339 INFO Fetching all the products from the storage
+2019-03-01 17:31:23.5579 INFO Returning 24 products.
+2019-03-01 17:31:29.2943 INFO Fetching all the products from the storage
+2019-03-01 17:31:29.3133 INFO Returning 24 products.
+2019-03-01 17:31:33.8517 INFO Fetching all the products from the storage
+2019-03-01 17:31:33.8747 INFO Returning 24 products.
+2019-03-01 17:31:37.4078 INFO Fetching all the products from the storage
+2019-03-01 17:31:37.4268 INFO Returning 24 products.
+2019-03-01 17:43:42.4663 INFO Fetching all the products from the storage
+2019-03-01 17:43:42.4933 INFO Returning 24 products.
+2019-03-01 17:44:21.6305 INFO Fetching all the products from the storage
+2019-03-01 17:44:21.6528 INFO Returning 24 products.
+2019-03-01 17:45:06.0926 INFO Fetching all the products from the storage
+2019-03-01 17:45:06.1166 INFO Returning 24 products.
+2019-03-01 17:48:05.1574 INFO Fetching all the products from the storage
+2019-03-01 17:48:05.1894 INFO Returning 24 products.
+2019-03-01 17:56:57.2239 INFO Fetching all the products from the storage
+2019-03-01 17:56:57.2730 INFO Returning 24 products.
+2019-03-01 17:57:09.1094 INFO Fetching all the products from the storage
+2019-03-01 17:57:09.1295 INFO Returning 24 products.
+2019-03-01 17:57:53.6992 INFO Fetching all the products from the storage
+2019-03-01 17:57:53.7217 INFO Returning 24 products.
+2019-03-01 17:59:17.0086 INFO Fetching all the products from the storage
+2019-03-01 17:59:17.0306 INFO Returning 24 products.
+2019-03-01 18:03:36.8535 INFO Fetching one product from the storage
+2019-03-01 18:03:37.7465 INFO Fetching one product from the storage
+2019-03-01 18:03:37.7555 INFO Returning product with ID: 3.
+2019-03-01 18:03:37.7555 INFO Returning product with ID: 3.
+2019-03-01 18:04:33.7871 INFO Fetching one product from the storage
+2019-03-01 18:04:33.7871 INFO Returning product with ID: 3.
+2019-03-01 18:04:50.7709 INFO Fetching one product from the storage
+2019-03-01 18:04:50.7709 INFO Returning product with ID: 3.
+2019-03-01 18:05:10.2753 INFO Fetching one product from the storage
+2019-03-01 18:05:26.7231 INFO Returning product with ID: 3.
+2019-03-01 18:05:51.4100 INFO Fetching one product from the storage
+2019-03-01 18:05:51.4100 INFO Returning product with ID: 3.
+2019-03-01 18:06:16.4679 INFO Fetching all the products from the storage
+2019-03-01 18:06:16.4909 INFO Returning 24 products.
+2019-03-01 18:06:22.6148 INFO Fetching one product from the storage
+2019-03-01 18:06:22.6148 INFO Returning product with ID: 3.
+2019-03-01 18:06:24.5739 INFO Fetching all the products from the storage
+2019-03-01 18:06:24.5929 INFO Returning 24 products.
+2019-03-01 18:06:26.8173 INFO Fetching one product from the storage
+2019-03-01 18:06:26.8173 INFO Returning product with ID: 7.
+2019-03-01 18:06:28.0354 INFO Fetching all the products from the storage
+2019-03-01 18:06:28.0514 INFO Returning 24 products.
+2019-03-01 18:06:29.5525 INFO Fetching one product from the storage
+2019-03-01 18:06:29.5525 INFO Returning product with ID: 9.
+2019-03-01 18:06:30.5232 INFO Fetching all the products from the storage
+2019-03-01 18:06:30.5422 INFO Returning 24 products.
+2019-03-01 18:06:31.7394 INFO Fetching one product from the storage
+2019-03-01 18:06:31.7394 INFO Returning product with ID: 22.
+2019-03-01 18:06:42.5353 INFO Fetching all the products from the storage
+2019-03-01 18:06:42.5544 INFO Returning 24 products.
+2019-03-01 18:06:43.7318 INFO Fetching one product from the storage
+2019-03-01 18:06:43.7398 INFO Returning product with ID: 6.
+2019-03-01 18:06:44.6212 INFO Fetching all the products from the storage
+2019-03-01 18:06:44.6422 INFO Returning 24 products.
+2019-03-01 18:06:45.4345 INFO Fetching one product from the storage
+2019-03-01 18:06:45.4415 INFO Returning product with ID: 5.
+2019-03-01 18:06:46.2027 INFO Fetching all the products from the storage
+2019-03-01 18:06:46.2218 INFO Returning 24 products.
+2019-03-01 18:06:47.3746 INFO Fetching one product from the storage
+2019-03-01 18:06:47.3796 INFO Returning product with ID: 10.
+2019-03-01 18:06:48.2732 INFO Fetching all the products from the storage
+2019-03-01 18:06:48.2942 INFO Returning 24 products.
+2019-03-01 18:06:49.6152 INFO Fetching one product from the storage
+2019-03-01 18:06:49.6152 INFO Returning product with ID: 23.
+2019-03-01 18:06:50.6714 INFO Fetching all the products from the storage
+2019-03-01 18:06:50.6924 INFO Returning 24 products.
+2019-03-01 18:06:52.2075 INFO Fetching one product from the storage
+2019-03-01 18:06:52.2075 INFO Returning product with ID: 6.
+2019-03-01 18:06:53.2191 INFO Fetching all the products from the storage
+2019-03-01 18:06:53.2411 INFO Returning 24 products.

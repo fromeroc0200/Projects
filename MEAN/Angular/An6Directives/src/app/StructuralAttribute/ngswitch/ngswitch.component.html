@@ -1,0 +1,12 @@
+<h1>NgSwitch Directive</h1>
+
+<ul>
+  <ng-container *ngFor="let place of places$" [ngSwitch]="place.nearness">
+    <li > {{place.name}} -
+      <span *ngSwitchCase="1">Muy crecano</span>
+      <span *ngSwitchCase="2">Cercano</span>
+      <span *ngSwitchCase="3">Lejano</span>
+      <span *ngSwitchCase="4">Muy Lejano</span>
+    </li>
+  </ng-container>
+</ul>

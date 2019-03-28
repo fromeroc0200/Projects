@@ -1,0 +1,30 @@
+2019-02-25 16:09:56.5724 INFO Here is info message from our values controller.
+2019-02-25 16:09:56.6124 DEBUG Here is debug message from our values controller.
+2019-02-25 16:09:56.6124 WARN Here is warn message from our values controller.
+2019-02-25 16:09:56.6124 ERROR Here is error message from our values controller.
+2019-02-25 17:13:07.3351 INFO Fetching all the products from the storage
+2019-02-25 17:13:07.6651 INFO Returning 27 products.
+2019-02-25 17:13:16.0356 INFO Fetching one product from the storage
+2019-02-25 17:13:16.1066 INFO Returning product.
+2019-02-25 17:13:19.4174 INFO Fetching one product from the storage
+2019-02-25 17:13:19.4174 WARN Product ID: 1 Not Found.
+2019-02-25 17:21:14.5914 INFO Fetching entity product for delete
+2019-02-25 17:21:14.8164 INFO Deleting product.
+2019-02-25 17:21:14.8751 INFO Product with ID: 1006 was deleted.
+2019-02-25 17:21:51.9383 INFO Fetching entity product for delete
+2019-02-25 17:21:51.9383 WARN Product is not registered
+2019-02-25 17:21:53.7654 INFO Fetching entity product for delete
+2019-02-25 17:21:53.7654 WARN Product is not registered
+2019-02-25 18:34:55.1979 INFO Fetching entity product for delete
+2019-02-25 18:34:55.5269 ERROR Something went wrong: System.Web.Http.HttpResponseException: Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+   at BikeStores.Services.Services.ProductsService.GetProduct(Int32 id) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 45
+   at BikeStores.WebApi.Controllers.ProductsController.Delete(Int32 productId) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\ProductsController.cs:line 159
+2019-02-25 18:35:44.8164 INFO Fetching entity product for delete
+2019-02-25 18:35:44.8454 ERROR Something went wrong: System.Web.Http.HttpResponseException: Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+   at BikeStores.Services.Services.ProductsService.GetProduct(Int32 id) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 45
+   at BikeStores.WebApi.Controllers.ProductsController.Delete(Int32 productId) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\ProductsController.cs:line 159
+2019-02-25 18:36:05.5371 INFO Fetching entity product for delete
+2019-02-25 18:37:08.2618 ERROR Something went wrong: System.Web.Http.HttpResponseException: Processing of the HTTP request resulted in an exception. Please see the HTTP response returned by the 'Response' property of this exception for details.
+   at BikeStores.Services.Services.ProductsService.GetProduct(Int32 id) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 45
+   at BikeStores.WebApi.Controllers.ProductsController.Delete(Int32 productId) in C:\MentorProjects\WebApiBikeStore\BikeStores.WebApi\Controllers\ProductsController.cs:line 159
+2019-02-25 18:38:06.1717 INFO Fetching entity product for delete

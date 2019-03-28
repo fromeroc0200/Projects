@@ -1,0 +1,8 @@
+
+<h1>ngClass Attribute Directive</h1>
+
+<ul>
+    <ng-container *ngFor="let usr of users$">
+      <li [ngClass]= "{number_pair: (usr.active)}">{{usr.name}}</li>
+    </ng-container>
+  </ul>

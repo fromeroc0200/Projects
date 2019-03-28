@@ -1,0 +1,76 @@
+2019-02-26 02:00:41.2053 INFO Fetching all the products from the storage
+2019-02-26 02:00:42.2309 INFO Returning 26 products.
+2019-02-26 02:02:19.3520 INFO Fetching all the products from the storage
+2019-02-26 02:02:47.5801 INFO Returning 26 products.
+2019-02-26 02:09:14.0419 INFO Fetching all the products from the storage
+2019-02-26 02:09:14.9872 INFO Returning 26 products.
+2019-02-26 02:12:19.8401 INFO Fetching all the products from the storage
+2019-02-26 02:20:01.4394 INFO Fetching all the products from the storage
+2019-02-26 02:20:19.9332 INFO Returning 26 products.
+2019-02-26 11:35:20.8569 INFO Fetching all the products from the storage
+2019-02-26 11:36:04.4898 INFO Returning 26 products.
+2019-02-26 11:36:30.5364 INFO Fetching one product from the storage
+2019-02-26 11:36:30.6164 INFO Returning product with ID: 2.
+2019-02-26 11:57:52.5664 INFO Fetching entity product for delete
+2019-02-26 13:10:39.4703 INFO Fetching entity product for delete
+2019-02-26 13:10:39.7523 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:10:53.4863 INFO Fetching entity product for delete
+2019-02-26 13:10:53.4913 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:10:54.6253 INFO Fetching entity product for delete
+2019-02-26 13:10:54.6463 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:10:55.4880 INFO Fetching entity product for delete
+2019-02-26 13:10:55.4930 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:10:56.5401 INFO Fetching entity product for delete
+2019-02-26 13:10:56.5401 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:11:19.0348 INFO Fetching entity product for delete
+2019-02-26 13:11:21.3256 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:11:59.2031 INFO Fetching entity product for delete
+2019-02-26 13:12:01.5807 INFO Deleting product with ID: 1003.
+2019-02-26 13:12:03.6103 INFO Product with ID: 1003 was deleted.
+2019-02-26 13:31:13.2185 INFO Fetching entity product for insert
+2019-02-26 13:31:29.2621 INFO Updating Product with ID: 1004.
+2019-02-26 13:31:44.9363 INFO Product with ID: 1004 was updated.
+2019-02-26 13:33:29.5256 INFO Fetching entity product for insert
+2019-02-26 13:33:42.0060 INFO Updating Product with ID: 1004.
+2019-02-26 13:35:22.8997 INFO Fetching entity product for insert
+2019-02-26 13:35:29.4429 INFO Updating Product with ID: 1004.
+2019-02-26 13:36:02.3821 WARN Something went wrong: System.Data.Entity.Infrastructure.DbUpdateConcurrencyException: Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions. ---> System.Data.Entity.Core.OptimisticConcurrencyException: Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   at System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   at System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.<Update>b__2(UpdateTranslator ut)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update[T](T noChangesResult, Func`2 updateFunction)
+   at System.Data.Entity.Core.EntityClient.Internal.EntityAdapter.Update()
+   at System.Data.Entity.Core.Objects.ObjectContext.<SaveChangesToStore>b__35()
+   at System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.<>c__DisplayClass2a.<SaveChangesInternal>b__27()
+   at System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   at System.Data.Entity.Core.Objects.ObjectContext.SaveChanges(SaveOptions options)
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   --- End of inner exception stack trace ---
+   at System.Data.Entity.Internal.InternalContext.SaveChanges()
+   at System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   at System.Data.Entity.DbContext.SaveChanges()
+   at BikeStores.Services.Services.ProductsService.UpdateProduct(Int32 id, products products) in C:\MentorProjects\WebApiBikeStore\BikeStores.Services\Services\ProductsService.cs:line 88
+2019-02-26 13:36:33.3405 INFO Fetching entity product for insert
+2019-02-26 13:37:22.3926 INFO Updating Product with ID: 1004.
+2019-02-26 13:43:08.3942 INFO Fetching entity product for insert
+2019-02-26 13:43:10.7733 INFO Updating Product with ID: 1004.
+2019-02-26 13:43:13.9060 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:43:35.8493 INFO Fetching entity product for insert
+2019-02-26 13:43:43.8611 INFO Updating Product with ID: 1004.
+2019-02-26 13:44:23.0107 WARN Product with ID: 1004 is not found or not exist
+2019-02-26 13:52:11.8191 INFO Fetching entity product for insert
+2019-02-26 13:52:12.5888 INFO Updating Product with ID: 1004.
+2019-02-26 13:52:12.8338 WARN Update process: Product with ID: 1004 is not found or not exist
+2019-02-26 13:53:37.3876 INFO Fetching entity product for delete
+2019-02-26 13:53:39.3841 WARN Product with ID: 1003 is not found or not exist
+2019-02-26 13:54:49.6836 INFO Fetching entity product for delete
+2019-02-26 13:54:51.5492 WARN Delete process: Product with ID: 1003 is not found or not exist
+2019-02-26 13:55:17.0451 INFO Fetching one product from the storage
+2019-02-26 13:55:17.1091 INFO Returning product with ID: 2.
+2019-02-26 13:55:24.1363 INFO Fetching one product from the storage
+2019-02-26 13:55:36.5313 INFO Fetching one product from the storage
+2019-02-26 13:55:40.1178 INFO Fetching one product from the storage
+2019-02-26 13:55:40.1287 INFO Returning product with ID: 26.
